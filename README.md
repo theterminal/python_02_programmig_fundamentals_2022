@@ -1,1 +1,1 @@
-# python_02_programmig_fundamentals_2022
+# Python - 02 - Programmig Fundamentals - 2022
