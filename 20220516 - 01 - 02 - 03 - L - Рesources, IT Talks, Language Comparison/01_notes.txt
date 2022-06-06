@@ -1,0 +1,6 @@
+# 20220516 - Python code
+# L1 - Resources
+# L2 - IT Talks
+# L3 - Language Comparison
+
+# Lectures 01, 02, 03 are introductory lectures for the course. There is no code to write...
