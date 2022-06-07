@@ -1,4 +1,4 @@
-# 20220518 - Python - Python Fundamentals - L5 - Basic Syntax
+# 20220518 - Python - Python Fundamentals - L5 - Basic Syntax, Conditional Statements, Loops
 # 02 - Largest of Three Numbers - judge url: https://judge.softuni.org/Contests/Practice/Index/1718#1
 
 # ------------------ version 3 ------------------------
