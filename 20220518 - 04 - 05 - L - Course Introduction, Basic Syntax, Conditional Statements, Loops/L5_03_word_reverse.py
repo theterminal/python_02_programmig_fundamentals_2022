@@ -1,4 +1,4 @@
-# 20220518 - Python - Python Fundamentals - L5 - Basic Syntax
+# 20220518 - Python - Python Fundamentals - L5 - Basic Syntax, Conditional Statements, Loops
 # 03 - Word Reverse - judge url: https://judge.softuni.org/Contests/Practice/Index/1718#2
 
 # --------------------- version 1 ---------------------------
