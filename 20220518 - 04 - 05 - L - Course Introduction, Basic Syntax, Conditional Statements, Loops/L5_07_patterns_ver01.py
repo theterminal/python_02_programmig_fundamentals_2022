@@ -1,4 +1,4 @@
-# 20220518 - Python - Python Fundamentals - L5 - Basic Syntax
+# 20220518 - Python - Python Fundamentals - L5 - Basic Syntax, Conditional Statements, Loops
 # 07 - Patterns - judge url: https://judge.softuni.org/Contests/Practice/Index/1718#6
 
 # ------------ version 1 -----------------------
