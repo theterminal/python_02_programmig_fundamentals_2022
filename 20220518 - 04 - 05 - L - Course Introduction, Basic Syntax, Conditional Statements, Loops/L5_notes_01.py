@@ -1,4 +1,4 @@
-# 20220518 - Python - Python Fundamentals - L5 - Basic Syntax
+# 20220518 - Python - Python Fundamentals - L5 - Basic Syntax, Conditional Statements, Loops
 # Notes
 # This file is not intended for execution!
 
