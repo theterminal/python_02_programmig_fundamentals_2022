@@ -1,0 +1,53 @@
+# Python packages and libraries
+
+-------------------------------------------------------
+
+package name:                                           os
+importing:                                              import os
+importing some functionality:
+
+documentation:
+
+-------------------------------------------------------
+
+package name / usage:                                   math / Performing different mathematical functions and calculations
+importing:                                              import math
+importing some functionality:                           from math import pi (example for pi)
+
+-------------------------------------------------------
+
+package name / usage:                                   forex-python / It is used to get live forex quotes.
+installation:                                           installed via terminal command 'pip install forex-python'
+importing:
+importing some functionality:                           from forex_python.converter import CurrencyRates
+
+documentation:                                          https://pypi.org/project/forex-python/
+github repository:                                      https://github.com/MicroPyramid/forex-python
+
+-------------------------------------------------------
+
+package name / usage:                                   itertools
+importing:                                              import itertools
+importing some functionality:                           from itertools import permutations
+
+documentation:                                          https://docs.python.org/3/library/itertools.html
+
+-------------------------------------------------------
+
+package name:                                           decimal
+importing:                                              import decimal
+importing some functionality:                           from decimal import Decimal
+
+site w examples:                                        https://www.pythonforbeginners.com/basics/decimal-module-in-python
+functionality help:                                     print(decimal.getcontext())
+
+-------------------------------------------------------
+
+package name:                                           nltk (chat bot)
+installation:                                           installed via terminal command 'pip install nltk'
+importing:
+importing some functionality:                           from nltk.chat.util import Chat, reflections
+
+information:                                            https://www.analyticsvidhya.com/blog/2021/07/build-a-simple-chatbot-using-python-and-nltk/
+
+-------------------------------------------------------
