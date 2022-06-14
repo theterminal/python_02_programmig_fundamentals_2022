@@ -1,4 +1,4 @@
-# 20220603 - Python Code - L12 - Lists Basics - E
+# 20220603 - Python Code - L12 - Lists Basics - Exercise
 # 05 - Faro Shuffle - judge url: https://judge.softuni.org/Contests/Compete/Index/1725#4
 
 lst_cards_given = input().split(' ')
