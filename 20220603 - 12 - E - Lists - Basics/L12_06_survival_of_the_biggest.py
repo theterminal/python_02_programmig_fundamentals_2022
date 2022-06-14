@@ -1,4 +1,4 @@
-# 22020603 - Python Code - L12 - Survival of the Biggest
+# 22020603 - Python Code - L12 - Lists Basics - Exercise
 # 06 - Survival of The Biggest - judge url: https://judge.softuni.org/Contests/Compete/Index/1725#5
 
 # list_ints_in = input().split(' ')
