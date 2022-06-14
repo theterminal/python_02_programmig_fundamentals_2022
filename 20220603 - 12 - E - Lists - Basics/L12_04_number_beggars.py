@@ -1,4 +1,4 @@
-# 20220603 - Python Code - L12 - Lists Basics
+# 20220603 - Python Code - L12 - Lists Basics - Exercise
 # 04 - Number Beggars - judge url: https://judge.softuni.org/Contests/Compete/Index/1725#3
 
 list_str_entered = input().split(', ')
