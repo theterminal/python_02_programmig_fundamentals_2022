@@ -1,4 +1,4 @@
-# 20220603 - Python Code - L12 - Lists Basics
+# 20220603 - Python Code - L12 - Lists Basics - Exercise
 # 03 - Football Cards - judge url: https://judge.softuni.org/Contests/Compete/Index/1725#2
 
 team_a = ['A-1', 'A-2', 'A-3', 'A-4', 'A-5', 'A-6', 'A-7', 'A-8', 'A-9', 'A-10', 'A-11']
