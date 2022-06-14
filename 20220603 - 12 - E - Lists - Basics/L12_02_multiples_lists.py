@@ -1,4 +1,4 @@
-# 20220603 - Python Code - L12 - Lists Basics
+# 20220603 - Python Code - L12 - Lists Basics - Exercise
 # 02 - Multiple Lists - judge url: https://judge.softuni.org/Contests/Compete/Index/1725#1
 
 # ----------------- version 1 -------------------------------
