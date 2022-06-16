@@ -15,4 +15,3 @@ print(rounding(lst_in))
 
 
 print(list(map(lambda a: round(float(a)), input().split(' '))))
-
