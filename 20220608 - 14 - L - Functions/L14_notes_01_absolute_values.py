@@ -3,11 +3,14 @@
 
 # ----------- my version -----------------
 
+
 str_in = input().split()
 lst_out = [abs(float(i)) for i in str_in]
 print(lst_out)
 
+
 # ----------- lecture --------------------
+
 
 list_of_strings = input().split()
 
