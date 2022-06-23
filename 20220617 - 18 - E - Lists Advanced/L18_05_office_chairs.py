@@ -4,6 +4,7 @@
 
 # ---------------- version 3 ----------------------
 
+
 def check_chairs(num_rooms):
     chairs_total_free = 0
     chairs_needed = 0
