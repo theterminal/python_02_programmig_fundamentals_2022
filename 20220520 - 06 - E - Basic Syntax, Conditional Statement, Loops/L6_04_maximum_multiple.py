@@ -14,7 +14,7 @@ for current_num in range(boundary, divisor, -1):
 # ---------------------------------------------------
 # # interesting concept from Юри Димитров
 
-# divisor = int(input())
-# boundary = int(input())
+divisor = int(input())
+boundary = int(input())
 
-# print(boundary // divisor * divisor)
+print((boundary // divisor) * divisor)
