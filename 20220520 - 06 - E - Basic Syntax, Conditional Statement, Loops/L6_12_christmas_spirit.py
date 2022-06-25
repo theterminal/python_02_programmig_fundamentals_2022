@@ -9,7 +9,7 @@ price_per_skirt,            points_per_skirt = 5, 3
 price_per_garland,          points_per_garland = 3, 10
 price_per_lights,           points_per_lights = 15, 17
 
-money_needed, total_spirit = 0, 0
+money_needed = total_spirit = 0
 
 for day in range(1, days_to_christmas + 1):
     if day % 11 == 0:
