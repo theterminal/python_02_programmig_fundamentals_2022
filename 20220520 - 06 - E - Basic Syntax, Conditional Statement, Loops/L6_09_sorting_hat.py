@@ -1,33 +1,26 @@
 # 20220521 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
 # 09 - Sorting Hat - judge url: https://judge.softuni.org/Contests/Compete/Index/1719#8
 
-house_to_stay_in, flag = '', 0
+house_to_stay_in = ''
 
 while True:
-    guest_name_entered = input()
+    guest_name = input()
 
-    if guest_name_entered == 'Welcome!':
-        flag = 1
+    if guest_name == 'Welcome!':
+        print('Welcome to Hogwarts.')
         break
 
-    if guest_name_entered == 'Voldemort':
-        flag = 2
+    if guest_name == 'Voldemort':
+        print('You must not speak of that name!')
         break
 
-    length_guest_name_entered = len(guest_name_entered)
-
-    if length_guest_name_entered < 5:
+    if len(guest_name) < 5:
         house_to_stay_in = 'Gryffindor.'
-    elif length_guest_name_entered == 5:
+    elif len(guest_name) == 5:
         house_to_stay_in = 'Slytherin.'
-    elif length_guest_name_entered == 6:
+    elif len(guest_name) == 6:
         house_to_stay_in = 'Ravenclaw.'
-    elif length_guest_name_entered > 6:
+    elif len(guest_name) > 6:
         house_to_stay_in = 'Hufflepuff.'
 
-    print(f'{guest_name_entered} goes to {house_to_stay_in}')
-
-if flag == 1:
-    print('Welcome to Hogwarts.')
-elif flag == 2:
-    print('You must not speak of that name!')
+    print(f'{guest_name} goes to {house_to_stay_in}')
