@@ -7,9 +7,9 @@ price_1_pack_eggs = price_flour_per_kg * 0.75
 price_1l_milk = price_flour_per_kg * 1.25
 price_025l_milk = (price_flour_per_kg * 1.25) / 4
 
-flour_kgs_in_stock, num_egg_packs_in_stock, milk_l_in_stock = 0, 0, 0
-count_bread_made, count_bread_local = 0, 0
-total_colored_eggs, counter_colored_eggs = 0, 0
+flour_kgs_in_stock = num_egg_packs_in_stock = milk_l_in_stock = 0
+count_bread_made = count_bread_temp = 0
+total_colored_eggs = counter_colored_eggs = 0
 
 while True:
     if num_egg_packs_in_stock == 0:
@@ -40,11 +40,11 @@ while True:
             flour_kgs_in_stock -= 1
             milk_l_in_stock -= 0.25
             total_colored_eggs += 3
-            count_bread_local += 1
+            count_bread_temp += 1
 
-            if count_bread_local == 3:
-                total_colored_eggs = total_colored_eggs - (count_bread_made - 2)
-                count_bread_local = 0
+            if count_bread_temp == 3:
+                total_colored_eggs -= (count_bread_made - 2)
+                count_bread_temp = 0
         else:
             break
 
