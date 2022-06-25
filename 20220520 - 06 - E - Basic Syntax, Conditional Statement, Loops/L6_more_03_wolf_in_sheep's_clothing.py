@@ -1,9 +1,7 @@
 # 20220528 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
 # More Exercise 03 - Wolf in Sheep's Clothing - judge url: https://judge.softuni.org/Contests/Practice/Index/1720#2
 
-str_input = input()
-
-lst_1 = str_input.split(', ')               # turns string into a list by splitting it by comma and space
+lst_1 = input().split(', ')
 index_wolf = ''
 
 for i in range(len(lst_1)):
