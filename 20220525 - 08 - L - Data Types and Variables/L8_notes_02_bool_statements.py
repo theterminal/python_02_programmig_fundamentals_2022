@@ -1,10 +1,12 @@
 # 20220529 - Python - Python Fundamentals - L8 - Data Types and Variables
 # notes 02 - Bool
 
+
 # The following values will return False when bool tested!
 # 0, -0, False, '',None
 
 print('\n------- Example 1 ----------\n')
+
 
 number = 1
 if number:
@@ -12,7 +14,9 @@ if number:
 else:
     print('else')
 
+
 print('\n-------- Example 2 ----------\n')
+
 
 number = None
 if number:
