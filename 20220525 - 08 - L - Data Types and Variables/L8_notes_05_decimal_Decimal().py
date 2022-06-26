@@ -3,11 +3,13 @@
 
 import decimal
 
+
 # -----------------------------------------------------------
 # It'll print every iteration while 'n' > 0, and then it'll print the 'print' statement inside the 'else' statement!
 
 print('\n------------ Example 1 -----------------\n')
 print('It\'ll print every iteration while \'n\' > 0, and then it\'ll print the \'print\' statement inside the \'else\' statement!\n')
+
 
 n = 5
 counter = 0
@@ -21,11 +23,14 @@ else:
     counter += 1
     print(f'n = {n} from \'the \'else\' of the while n\' -> iteration # {counter}')
 
+
 # ----------------------------------------------------------
 # It will print only the 'else' 'print' statement when 'n == 0'
 
+
 print('\n------------ Example 2 -----------------\n')
 print('It will print only the \'else\' \'print\' statement when \'n == 0\'\n')
+
 
 n = 10
 counter = 0
@@ -39,7 +44,9 @@ else:
     counter += 1
     print(f'n = {n} from \'the \'else\' of the while n\' -> iteration # {counter}')
 
+
 # ----------------------------------------------------------
+
 
 print('\n------------ Example 3 -----------------\n')
 
@@ -52,7 +59,9 @@ print(f'Result for decimal division of 4 by 3: {decimal_division}\n')
 
 print(decimal.getcontext())
 
+
 # ----------------------------------------------------------
+
 
 print('\n------------ Example 4 -----------------\n')
 
@@ -67,17 +76,19 @@ print("num_1 divided by num_2 is:", num_3)
 num_4 = round(num_3, 2)
 print("Rounded value upto two decimal points is:", num_4)
 
+
 # -----------------------------------------------------------
+
 
 print('\n------------ Example 5 -----------------\n')
 
-x = decimal.Decimal("1.2")
-y = decimal.Decimal("2.2")
-z = decimal.Decimal("3.4")
+x = decimal.Decimal('1.2')
+y = decimal.Decimal('2.2')
+z = decimal.Decimal('3.4')
 a = x + y
 
-print("x:", x)
-print("y:", y)
-print("z:", z)
-print("\nx + y: = ", a)
-print("(x + y == z) =", a == z)
+print('x:', x)
+print('y:', y)
+print('z:', z)
+print('\nx + y: = ', a)
+print('(x + y == z) =', a == z)
