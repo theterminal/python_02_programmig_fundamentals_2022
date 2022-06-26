@@ -26,5 +26,5 @@ for i in range(1, num_elements_in_group + 1):
 all_combinations_from_group = int(all_permutations_from_group / factorial)
 
 print(f'\nAll permutations from {num_elements} elements (\'{num_elements}!\' - factorial) are: {all_permutations}')
-print(f'All permutations from {num_elements} elements in groups of {num_elements_in_group} elem. are: {all_permutations_from_group}')
+print(f'All variations from {num_elements} elements in groups of {num_elements_in_group} elem. are: {all_permutations_from_group}')
 print(f'All combinations from {num_elements} elements in groups of {num_elements_in_group} elem. are: {all_combinations_from_group}')
