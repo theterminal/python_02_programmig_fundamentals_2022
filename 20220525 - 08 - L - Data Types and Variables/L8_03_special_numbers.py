@@ -1,7 +1,9 @@
 # 20220529 - Python - Python Fundamentals - L9 - Data Types and Variables
 # 03 - Special Numbers - judge url: https://judge.softuni.org/Contests/Practice/Index/1721#2
 
+
 # --- version 1 --- Working with strings ---
+
 
 num_entered = int(input())
 
@@ -18,7 +20,9 @@ for num in range(1, num_entered + 1):
     else:
         print(f'{num} -> False')
 
+
 # --- version 2 --- Working with numbers only ---
+
 
 num_entered = int(input())
 
