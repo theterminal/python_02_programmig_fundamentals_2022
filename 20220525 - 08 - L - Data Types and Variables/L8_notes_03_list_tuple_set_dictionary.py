@@ -1,6 +1,7 @@
 # 20220529 - Python - Python Fundamentals - L8 - Data Types and Variables
 # notes 03 - List, Tuple, Set, Dictionary
 
+
 print('\n------- Example 1 ---------------------------- printing the content of a dictionary ------------------\n')
 dict_1 = {'name': 'Ivan', 'age': 42, 'smarts': 'very'}
 print(dict_1)
