@@ -2,7 +2,8 @@
 # More Exercises 04 - Balanced Brackets - judge url: https://judge.softuni.org/Contests/Practice/Index/1723#3
 
 num_lines = int(input())
-counter, flag = 0, False
+counter = 0
+flag = False
 
 for _ in range(num_lines):
     char = input()
