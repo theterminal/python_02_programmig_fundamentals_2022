@@ -1,11 +1,16 @@
 # 20220528 - Python - Python Fundamentals - L9 - Data Types and Variables
 # 08 - Party Profit - judge url: https://judge.softuni.org/Contests/Compete/Index/1722#7
+
 import math
 
-group_size, days, coins_received = int(input()), int(input()), 0
+
+group_size = int(input())
+days = int(input())
+coins_received = 0
 
 if not(1 <= group_size <= 101):
     print(f'Group Size NOT in the specified range')
+
 if not(1 <= days <= 101):
     print(f'Days NOT in the specified range')
 
