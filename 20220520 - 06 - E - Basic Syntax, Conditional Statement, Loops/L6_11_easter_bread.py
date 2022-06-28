@@ -1,6 +1,7 @@
 # 20220523 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
 # 11 - Easter Bread - judge url: https://judge.softuni.org/Contests/Compete/Index/1719#10
 
+
 budget = float(input())
 price_flour_per_kg = float(input())
 price_1_pack_eggs = price_flour_per_kg * 0.75
