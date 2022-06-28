@@ -1,6 +1,7 @@
 # 20220521 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
 # 02 - Drink Something - judge url: https://judge.softuni.org/Contests/Compete/Index/1719#1
 
+
 persons_age_entered = int(input())
 
 if persons_age_entered <= 14:
