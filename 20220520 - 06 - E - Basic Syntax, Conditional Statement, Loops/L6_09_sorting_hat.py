@@ -1,6 +1,7 @@
 # 20220521 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
 # 09 - Sorting Hat - judge url: https://judge.softuni.org/Contests/Compete/Index/1719#8
 
+
 house_to_stay_in = ''
 
 while True:
