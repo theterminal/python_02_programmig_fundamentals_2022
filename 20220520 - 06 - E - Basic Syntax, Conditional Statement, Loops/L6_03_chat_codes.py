@@ -1,6 +1,7 @@
 # 20220521 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
 # 03 - Chat Codes - judge url: https://judge.softuni.org/Contests/Compete/Index/1719#2
 
+
 num_messages = int(input())
 
 for _ in range(num_messages):
