@@ -1,6 +1,7 @@
 # 20220521 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
 # 04 - Maximum Multiple - judge url: https://judge.softuni.org/Contests/Compete/Index/1719#3
 
+
 divisor = int(input())
 boundary = int(input())
 max_multiplier = 0
