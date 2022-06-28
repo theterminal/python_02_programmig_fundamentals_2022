@@ -1,6 +1,7 @@
 # 20220521 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
 # 05 - Orders - judge url: https://judge.softuni.org/Contests/Compete/Index/1719#4
 
+
 num_of_orders = int(input())
 total_price = 0
 
