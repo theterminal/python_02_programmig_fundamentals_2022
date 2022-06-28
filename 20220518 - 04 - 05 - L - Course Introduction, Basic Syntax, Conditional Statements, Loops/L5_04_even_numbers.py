@@ -1,6 +1,7 @@
 # 20220518 - Python - Python Fundamentals - L5 - Basic Syntax, Conditional Statements, Loops
 # 04 - Even Numbers - judge url: https://judge.softuni.org/Contests/Practice/Index/1718#3
 
+
 n = int(input())
 
 for i in range(n):
