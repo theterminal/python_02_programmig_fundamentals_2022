@@ -1,6 +1,7 @@
 # 20220523 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
 # 12 - Easter Bread - judge url: https://judge.softuni.org/Contests/Compete/Index/1719#11
 
+
 quantity_of_decorations = int(input())
 days_to_christmas = int(input())
 
