@@ -1,6 +1,7 @@
 # 20220529 - Python - Python Fundamentals - L8 - Data Types and Variables
 # notes 01 - Locations and Addresses
 
+
 a = None
 b = None
 c = None
