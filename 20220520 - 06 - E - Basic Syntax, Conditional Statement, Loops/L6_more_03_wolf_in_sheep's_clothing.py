@@ -1,6 +1,7 @@
 # 20220528 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
 # More Exercise 03 - Wolf in Sheep's Clothing - judge url: https://judge.softuni.org/Contests/Practice/Index/1720#2
 
+
 lst_1 = input().split(', ')
 index_wolf = ''
 
