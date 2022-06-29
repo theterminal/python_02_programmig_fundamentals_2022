@@ -1,8 +1,9 @@
 # 20220521 - Python Code
+# Algorithms in Python: Recursion -- Find Uppercase Letter in String
 # https://www.youtube.com/watch?v=dlCGc92tAqo&t=4s
 
-# reading several integers as an input, separated by a space
 
+# reading several integers as an input, separated by a space
 num_1, num_2, num_3 = map(int, input().split(', '))
 
 print(num_1, num_2, num_3)
