@@ -1,6 +1,7 @@
 # 20220527 - Python - Python Fundamentals - L9 - Data Types and Variables
 # 07 - Water Overflow - judge url: https://judge.softuni.org/Contests/Compete/Index/1722#6
 
+
 num_lines = range(int(input()))
 tank_capacity_l = 255
 in_tank_l = 0
