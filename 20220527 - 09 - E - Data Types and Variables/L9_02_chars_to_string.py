@@ -1,6 +1,7 @@
 # 20220527 - Python - Python Fundamentals - L9 -  - Data Types and Variables
 # 02 - Chars to String - judge url: https://judge.softuni.org/Contests/Compete/Index/1722#1
 
+
 str_1 = input()
 str_2 = input()
 str_3 = input()
