@@ -1,5 +1,6 @@
 # 20220608
 
+
 while True:
     num_elements = int(input('\nEnter the number of all elements: '))
     num_elements_in_group = int(input('Enter number of elements in a group: '))
