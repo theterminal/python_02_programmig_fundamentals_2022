@@ -3,6 +3,7 @@
 
 from itertools import permutations
 
+
 # Base command is 'permutations(iterable, r)'
 # where 'iterable' is a Tuple, 'r' is num elements in the group, from all elements.
 
