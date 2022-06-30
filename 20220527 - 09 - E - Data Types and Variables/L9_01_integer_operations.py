@@ -1,6 +1,7 @@
 # 20220527 - Python - Python Fundamentals - L9 - Data Types and Variables
 # 01 - integer Operations - judge url: https://judge.softuni.org/Contests/Compete/Index/1722#0
 
+
 num_1 = int(input())
 num_2 = int(input())
 num_3 = int(input())
