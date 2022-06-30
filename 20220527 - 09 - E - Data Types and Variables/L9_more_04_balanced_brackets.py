@@ -1,6 +1,7 @@
 # 20220528 - Python - Python Fundamentals - L9 - Data Types and Variables
 # More Exercises 04 - Balanced Brackets - judge url: https://judge.softuni.org/Contests/Practice/Index/1723#3
 
+
 num_lines = int(input())
 counter = 0
 flag = False
