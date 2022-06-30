@@ -1,6 +1,8 @@
 # 20220608 - Python Code
 
+
 # https://docs.python.org/3/library/itertools.html#itertools.count
+
 
 # itertools.count(start=0, step=1)
 
