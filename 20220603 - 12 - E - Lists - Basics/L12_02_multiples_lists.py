@@ -1,7 +1,9 @@
 # 20220603 - Python Code - L12 - Lists Basics - Exercise
 # 02 - Multiple Lists - judge url: https://judge.softuni.org/Contests/Compete/Index/1725#1
 
+
 # ----------------- version 1 -------------------------------
+
 
 factor = int(input())
 count = int(input())
@@ -19,6 +21,7 @@ print(list_1)
 
 # ----------------- version 2 -------------------------------
 
+
 factor = int(input())
 count = int(input())
 
@@ -29,11 +32,20 @@ for i in range(1, count + 1):
 
 print(list_1)
 
+
 # -------------------- version 3 -----------------------------
+
 
 factor = int(input())
 count = int(input())
 
-list_1 = list(range(factor, count * factor + 1, factor))
-print(list_1)
+print(list(range(factor, count * factor + 1, factor)))
 
+
+# -------------------- version 4 -----------------------------
+
+
+factor = int(input())
+count = int(input())
+
+print([factor * i for i in range(1, count + 1)])
