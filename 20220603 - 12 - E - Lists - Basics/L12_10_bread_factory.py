@@ -1,7 +1,9 @@
 # 22020613 - Python Code - L12 - Lists Basics - Exercise
 # 10 - Bread Factory - https://judge.softuni.org/Contests/Compete/Index/1725#9
 
+
 # ------------- version 2 ---------------------------
+
 
 energy = coins = 100
 str_in = input().split('|')
@@ -27,6 +29,7 @@ for i in range(len(str_in)):
     elif event_type == 'order':
         if energy < 30:
             energy += 50
+
             if energy > 100:
                 energy = 100
 
@@ -51,7 +54,9 @@ if not flag:
     print(f'Coins: {coins}')
     print(f'Energy: {energy}')
 
+
 # ------------- version 1 ---------------------------
+
 
 energy = coins = 100
 str_in = input().split('|')
