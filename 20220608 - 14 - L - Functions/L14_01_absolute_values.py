@@ -13,10 +13,10 @@ print(lst_from_str_entered_to_abs_num)
 
 # ---------------- with function ---------------------
 
-def absolute(numb):
-    result = [abs(i) for i in numb]
-    return result
+
+def absolute(nums):
+    return [abs(i) for i in nums]
 
 
-entry = list(map(float, input().split(' ')))
-print(absolute(entry))
+nums_entered = list(map(float, input().split(' ')))
+print(absolute(nums_entered))
