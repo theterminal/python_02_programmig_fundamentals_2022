@@ -2,9 +2,6 @@
 # 05 - Orders - judge url: https://judge.softuni.org/Contests/Practice/Index/1727#4
 
 
-# -------------- version 2 ---------------
-
-
 def orders(product: str, quantity: int):
     price = 0
 
@@ -17,8 +14,7 @@ def orders(product: str, quantity: int):
     elif product == 'snacks':
         price = 2.00
 
-    result = f'{(price * quantity):.2f}'
-    return result
+    return f'{(price * quantity):.2f}'
 
 
 prod = input()
