@@ -3,20 +3,17 @@
 
 
 def grade_test(grade):
-    result = None
 
     if 2.00 <= grade < 3:
-        result = 'Fail'
+        return 'Fail'
     elif grade < 3.50:
-        result = 'Poor'
+        return 'Poor'
     elif grade < 4.50:
-        result = 'Good'
+        return 'Good'
     elif grade < 5.50:
-        result = 'Very Good'
+        return 'Very Good'
     else:
-        result = 'Excellent'
-
-    return result
+        return 'Excellent'
 
 
 entry = float(input())
