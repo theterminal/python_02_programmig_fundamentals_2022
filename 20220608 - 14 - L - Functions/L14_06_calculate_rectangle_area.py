@@ -3,10 +3,10 @@
 
 
 def rectangle_area(width: int, height: int):
-    result = width * height
-    return result
+    return width * height
 
 
 w = int(input())
 h = int(input())
+
 print(rectangle_area(w, h))
