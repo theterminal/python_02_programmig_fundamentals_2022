@@ -1,6 +1,7 @@
 # 20220614 - Python Code - Functions - Exercise
 # 05 - Even Numbers - judge url: https://judge.softuni.org/Contests/Compete/Index/1728#4
 
+
 # ----------------------- version 5 using lambda --------------
 
 
