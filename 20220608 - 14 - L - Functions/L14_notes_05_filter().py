@@ -1,6 +1,7 @@
 # 20220608 - Python Code - Functions - Lecture
 # 05 - filter() with and without lambda function
 
+
 # -------------- with lambda function --------------------------------------
 
 
