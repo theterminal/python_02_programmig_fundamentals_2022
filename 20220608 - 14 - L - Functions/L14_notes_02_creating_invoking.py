@@ -1,6 +1,7 @@
 # 20220608 - Python Code - Functions - Lecture
 # 02 - Creating and Invoking a Functions
 
+
 # --------------------- example 1 ----------------
 
 
@@ -34,6 +35,3 @@ def crash():
 
 
 # crash()
-
-
-# ------------------------------------------------
