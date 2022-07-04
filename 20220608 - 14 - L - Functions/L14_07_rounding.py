@@ -1,6 +1,7 @@
 # 20220614 - Python Code - Functions - Lecture
 # 07 - Rounding - judge url: https://judge.softuni.org/Contests/Practice/Index/1727#6
 
+
 def rounding(lst: list):
     lst_num = [round(float(i)) for i in lst_in]
 
