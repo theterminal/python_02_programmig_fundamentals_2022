@@ -21,7 +21,8 @@ char_1 = input()
 char_2 = input()
 
 output = (char_in_range(char_1, char_2))
-print(*output)                                  # only line different than the version 2
+print(*output)                                  # only line different from the version 2
+
 
 # ---------- version 2 ---------------------
 
