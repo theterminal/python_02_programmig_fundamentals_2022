@@ -16,4 +16,3 @@ def name_f():
 
 print(name_f())
 print(name_f.__doc__)
-
