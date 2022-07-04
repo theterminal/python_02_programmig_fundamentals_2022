@@ -1,6 +1,7 @@
 # 20220608 - Python Code - Functions - Lecture
 # 10 - Using Lambda
 
+
 # ------- using lambda function ----------------
 
 
