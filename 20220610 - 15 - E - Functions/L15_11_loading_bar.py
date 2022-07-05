@@ -1,6 +1,7 @@
 # 20220615 - Python Code - Functions - Exercise
 # 11 - Loading Bar - judge url: https://judge.softuni.org/Contests/Compete/Index/1728#10
 
+
 def loading_bar(num):
     if num == 100:
         return f'{num}% Complete!\n[%%%%%%%%%%]'
