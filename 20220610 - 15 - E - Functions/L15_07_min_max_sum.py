@@ -4,6 +4,7 @@
 
 # ------------------- version 2 -----------------------
 
+
 lst_nums = [int(i) for i in input().split()]
 print(f'The minimum number is {min(lst_nums)}')
 print(f'The maximum number is {max(lst_nums)}')
