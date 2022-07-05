@@ -2,7 +2,20 @@
 # 08 - Palindrome Integers - judge url: https://judge.softuni.org/Contests/Compete/Index/1728#7
 
 
+# ------------- version 3 --------------------------------------------------
+
+
+nums = input().split(', ')
+
+for i in nums:
+    if i == i[::-1]:
+        print('True')
+    else:
+        print('False')
+
+
 # ------------- version 1 ------- function used ----------------------------
+
 
 def palindrome(lst_str_nums: list):
 
@@ -25,6 +38,7 @@ palindrome(str_num_in)
 
 
 # ------------- version 1 ------- no function used ----------------------------
+
 
 str_num_in = input().split(', ')
 
