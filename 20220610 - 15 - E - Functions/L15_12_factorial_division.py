@@ -2,10 +2,25 @@
 # 12 - Factorial Division - judge url: https://judge.softuni.org/Contests/Compete/Index/1728#11
 
 
+# -------------- version 3 --------------------------
+
+
+def factorial_calculator(num):
+    for i in range(1, num):
+        num *= i
+    return num
+
+
+num_1 = int(input())
+num_2 = int(input())
+
+print(f'{(factorial_calculator(num_1) / factorial_calculator(num_2)):.2f}')
+
+
 # -------------- version 2 --------------------------
 
 
-def factorial_calculation(num):
+def factorial_calculator(num):
     for i in range(1, num):
         num *= i
     return num
@@ -14,8 +29,8 @@ def factorial_calculation(num):
 num_int_1 = int(input())
 num_int_2 = int(input())
 
-num_1_factorial = factorial_calculation(num_int_1)
-num_2_factorial = factorial_calculation(num_int_2)
+num_1_factorial = factorial_calculator(num_int_1)
+num_2_factorial = factorial_calculator(num_int_2)
 result = num_1_factorial / num_2_factorial
 
 print(f'{result:.2f}')
