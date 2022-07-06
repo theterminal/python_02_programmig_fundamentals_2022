@@ -4,6 +4,8 @@
 import math
 
 
+# !!! NOT 100% VERSION - IT IS 40% ONLY !!!
+
 # returns the coordinates of the longer line
 def longer(abx1, aby1, abx2, aby2, cdx1, cdy1, cdx2, cdy2):
     # Line AB
