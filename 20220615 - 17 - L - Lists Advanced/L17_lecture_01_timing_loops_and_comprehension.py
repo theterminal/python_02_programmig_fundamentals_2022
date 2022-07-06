@@ -24,6 +24,7 @@ def even_numbers_with_loop():
 print(timeit.timeit(even_numbers_with_comprehension))           # result ->  0.8331775270053186
 print(timeit.timeit(even_numbers_with_loop))                    # result ->  0.703883087990107
 
+
 # ------------------- version 2 --------------------------------
 
 
