@@ -2,7 +2,7 @@
 # Notes - Perfect Number
 
 
-# Start the code and enter 'ax_num' to receive the result!
+# Start the code and enter integer value for the 'max_num' variable! That is the max of the range...
 
 max_num = int(input())
 counter_perfect_numbers = counter_combinations = 0
@@ -22,10 +22,10 @@ for num in range(1, max_num + 1):
         if num == sum_divisors:
             print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n')
             print(f'{num} is a perfect number. The sum of its positive divisors equals to the {num} itself!\n')
-            print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n')
             counter_perfect_numbers += 1
 
         break
 
-print('\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n')
-print(f'{counter_perfect_numbers} - All perfect numbers in the range (0, {max_num}]')
+print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n')
+print(f'{counter_perfect_numbers} - is the count of all perfect numbers in the range (0, {max_num}]\n')
+print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n')
