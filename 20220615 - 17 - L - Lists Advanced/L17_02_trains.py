@@ -16,7 +16,6 @@ while True:
     if operation == 'add':
         num_people = int(lst_com[1])
         train[-1] += num_people
-
     else:
         index = int(lst_com[1])
         people = int(lst_com[2])
