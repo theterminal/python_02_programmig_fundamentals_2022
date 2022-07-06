@@ -22,7 +22,7 @@ print([x[1] for x in sorted(tasks)])
 # -------------- version 2 -------------- 100% judge
 
 
-lst_full = [0] * 10
+lst_full = ['0'] * 10
 
 while True:
     command = input()
@@ -54,4 +54,3 @@ for i in range(len(lst_full)):
     result.append(lst_full[i][2::])
 
 print(result)
-
