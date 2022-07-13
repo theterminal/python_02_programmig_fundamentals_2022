@@ -3,14 +3,20 @@
 
 
 # ------------------ version 4 ------------------------
+# This version will add an additional number above version 9.9.9  -  it'll become 1.0.0.0 and NOT 10.9.9
 
 
-version = input()
-version = int(version.replace('.', ''))
-print(version)
+version = str(int(input().replace('.', '')) + 1)
+result = ''
+
+for i in version:
+    result += i + '.'
+
+print(result[:-1:])
 
 
 # ------------------ version 3 ------------------------
+
 
 version = [i for i in input().split('.')]
 version = str(int(version[0] + version[1] + version[2]) + 1)
