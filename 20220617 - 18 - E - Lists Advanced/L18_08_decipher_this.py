@@ -11,11 +11,11 @@ message = ''
 for word in message_in:
     num = alpha = ''
 
-    for symbol in range(len(word)):
-        if word[symbol].isdigit():
-            num += word[symbol]
+    for i in range(len(word)):
+        if word[i].isdigit():
+            num += word[i]
         else:
-            alpha += word[symbol]
+            alpha += word[i]
 
     letter_from_num = chr(int(num))
 
@@ -37,9 +37,9 @@ str_in = input().split()
 ascii_letter = full_word = ''
 
 for word in str_in:
-    for symbol in range(len(word)):
-        if word[symbol].isdigit():
-            ascii_letter += word[symbol]
+    for i in range(len(word)):
+        if word[i].isdigit():
+            ascii_letter += word[i]
         else:
             break
 
@@ -67,12 +67,12 @@ alpha_word = ''
 full_word = ''
 
 for word in str_in:
-    for symbol in range(len(word)):
-        if word[symbol].isdigit():
-            ascii_letter += word[symbol]
+    for i in range(len(word)):
+        if word[i].isdigit():
+            ascii_letter += word[i]
 
-        if word[symbol].isalpha():
-            alpha_word += word[symbol]
+        if word[i].isalpha():
+            alpha_word += word[i]
 
     ascii_letter = chr(int(ascii_letter))
     if len(alpha_word) > 1:
