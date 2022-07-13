@@ -22,4 +22,5 @@ while len(lst_in) > 0:
 
     for value in values_to_remove:
         lst_in.remove(value)
+
     values_to_remove.clear()
