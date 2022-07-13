@@ -3,11 +3,10 @@
 
 
 num_electrons = int(input())
-
 final_list = []
 count_shells = 0
 
-while True:
+while num_electrons > 0:
     count_shells += 1
     electrons_current_shell = 2 * (count_shells ** 2)
 
