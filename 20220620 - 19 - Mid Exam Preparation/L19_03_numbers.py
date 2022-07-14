@@ -38,25 +38,25 @@ print(result)
 # ------------------------ version 1 --- no function --------------------------
 
 
-# numbers_in = list(map(int, input().split()))                             # int [-1_000_000 : 1_000_000]
-# average_from_numbers_in = sum(numbers_in) / len(numbers_in)
-# numbers_out = [i for i in numbers_in if i > average_from_numbers_in]
-#
-# counter = 0
-# result = []
-#
-# for i in range(len(numbers_out)):
-#     counter += 1
-#
-#     if counter == 6:
-#         break
-#     max_num = max(numbers_out)
-#     result += [max_num]
-#     numbers_out.remove(max_num)
-#
-# result = ' '.join([str(i) for i in result])
-#
-# if len(result) <= 1:
-#     print('No')
-# else:
-#     print(result)
+numbers_in = list(map(int, input().split()))                             # int [-1_000_000 : 1_000_000]
+average_from_numbers_in = sum(numbers_in) / len(numbers_in)
+numbers_out = [i for i in numbers_in if i > average_from_numbers_in]
+
+counter = 0
+result = []
+
+for i in range(len(numbers_out)):
+    counter += 1
+
+    if counter == 6:
+        break
+    max_num = max(numbers_out)
+    result += [max_num]
+    numbers_out.remove(max_num)
+
+result = ' '.join([str(i) for i in result])
+
+if len(result) <= 1:
+    print('No')
+else:
+    print(result)
