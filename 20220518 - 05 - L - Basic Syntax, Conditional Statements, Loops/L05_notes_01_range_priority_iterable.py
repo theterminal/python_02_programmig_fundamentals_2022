@@ -2,6 +2,9 @@
 # Notes 01
 
 
+# -----------------------------------------------------------------
+
+
 # Storing range into variable
 a = range(1, 10)
 for i in a:
