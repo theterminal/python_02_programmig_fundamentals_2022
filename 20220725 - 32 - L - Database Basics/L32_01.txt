@@ -1,0 +1,3 @@
+# 20220725 - Python Code - Database Basics - Lecture
+
+This lecture was just theory. No problems were given.
