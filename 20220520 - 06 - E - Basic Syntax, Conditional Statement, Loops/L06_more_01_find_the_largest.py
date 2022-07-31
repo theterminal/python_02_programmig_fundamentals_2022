@@ -2,13 +2,14 @@
 # More Exercise 01 - Find The Largest - judge url: https://judge.softuni.org/Contests/Practice/Index/1720#0
 
 
-# ----------------------- version 2 --- using list comprehension ------------
+# ----------------------- version 2 --- using list comprehension ------------ judge: 100%
 
 
 print(''.join([str(i) for i in sorted((int(i) for i in input()), reverse=True)]))
 
 
-# ----------------------- version 1 ------------------------------------------
+# ----------------------- version 1 ------------------------------------------ judge: 100%
+
 
 num_entered = input()
 max_num = 0
@@ -29,3 +30,29 @@ for _ in range(len(num_entered)):
     num_entered = num_entered[:count_index] + num_entered[count_index + 1:]
 
 print(new_str_num)
+
+
+""" -----------------  Find The Largest -------------------
+
+
+You will be given a number.
+Print the largest number that can be formed from the digits of the given number.
+
+
+--------- Test Data -----------
+
+
+Input 1:            Output 1:
+-------             --------
+213                 321
+
+
+-------------------------------
+
+
+Input 2:            Output 2:
+-------             --------
+7389                9873
+
+
+"""
