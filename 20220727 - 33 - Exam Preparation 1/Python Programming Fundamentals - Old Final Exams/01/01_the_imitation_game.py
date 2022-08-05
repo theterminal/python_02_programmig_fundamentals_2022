@@ -67,7 +67,7 @@ Output:
 ------------ Test Code --------------
 
 Input 1:
--------
+-------d
 zzHe
 ChangeAll|z|l
 Insert|2|o
