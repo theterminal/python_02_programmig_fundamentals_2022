@@ -1,4 +1,4 @@
-# 20220608 - Python Code
+# 20220608 - Python
 # itertools - Permutations
 
 from itertools import permutations
@@ -6,6 +6,7 @@ from itertools import permutations
 
 # Base command is 'permutations(iterable, r)'
 # where 'iterable' is a Tuple, 'r' is num elements in the group, from all elements.
+
 
 # -------------------------------------------
 print('\n--------- Example 1 ------------\n')
