@@ -1,4 +1,4 @@
-# 20220608 - Python Code
+# 20220608 - Python
 # 'while loop' some syntax, and decimal module
 
 import decimal
@@ -6,6 +6,7 @@ import decimal
 
 # -----------------------------------------------------------
 # It'll print every iteration while 'n' > 0, and then it'll print the 'print' statement inside the 'else' statement!
+
 
 print('\n------------ Example 1 -----------------\n')
 print('It\'ll print every iteration while \'n\' > 0, and then it\'ll print the \'print\' statement inside the \'else\' statement!\n')
