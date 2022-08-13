@@ -2,7 +2,7 @@
 # 04 - Search - judge url: https://judge.softuni.org/Contests/Practice/Index/1724#3
 
 
-# ------------ version 4 ------------------
+# ------------ version 4 ------------------ judge 100%
 
 
 num_strings = int(input())
@@ -13,7 +13,7 @@ lst_with_word = [i for i in lst_strings if word in i]
 print(lst_strings, '\n', lst_with_word)
 
 
-# ------------ version 3 ------------------
+# ------------ version 3 ------------------ judge 100%
 
 
 num_strings = int(input())
@@ -30,7 +30,7 @@ lst_with_word = [i for i in lst_strings if word in i]
 print(lst_strings, '\n', lst_with_word)
 
 
-# ------------ version 1 ------------------
+# ------------ version 1 ------------------ judge 100%
 
 
 num_strings = int(input())
@@ -51,7 +51,7 @@ for i in range(num_strings):
 print(lst_with_word)
 
 
-# ------------ version 2 ------------------
+# ------------ version 2 ------------------ judge 100%
 
 
 num_strings = int(input())
@@ -69,3 +69,52 @@ for _ in range(num_strings):
 
 print(lst_strings)
 print(lst_with_word)
+
+
+""" ------------------ Search -------------------
+
+
+On the first line, you will receive a number 'n'.
+On the second line, you will receive a word.
+On the following n lines, you will be given some strings.
+You should add them to a list and print them.
+After that, you should filter out only the strings that include the given word and print that list too.
+
+
+-------------- Test Data ----------------
+
+
+Input 1:
+-------
+3
+SoftUni
+I study at SoftUni
+I walk to work
+I learn Python at SoftUni
+
+
+Output 1:
+--------
+["I study at SoftUni", "I walk to work", "I learn Python at SoftUni"]
+["I study at SoftUni", "I learn Python at SoftUni"]
+
+
+-----------------------------------------
+
+
+Input 2:
+-------
+4
+tomatoes
+I love tomatoes
+I can eat tomatoes forever
+I don't like apples
+Yesterday I ate two tomatoes
+
+
+Output 2:
+--------
+["I love tomatoes", "I can eat tomatoes forever", "I don't like apples", "Yesterday I ate two tomatoes"]
+["I love tomatoes", "I can eat tomatoes forever", "Yesterday I ate two tomatoes"]
+
+"""
