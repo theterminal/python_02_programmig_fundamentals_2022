@@ -2,7 +2,7 @@
 # 05 - Numbers Filter - judge url: https://judge.softuni.org/Contests/Practice/Index/1724#4
 
 
-# --------------- version 5 -------------------
+# --------------- version 5 ------------------- judge 100%
 
 
 num_nums = int(input())
@@ -20,7 +20,7 @@ elif command == 'positive':
     print([i for i in lst_all_nums if i >= 0])
 
 
-# --------------- version 4 -------------------
+# --------------- version 4 ------------------- judge 100%
 
 
 num_lines = int(input())
@@ -50,7 +50,7 @@ for element in lst_all_nums:
 print(lst_to_print)
 
 
-# --------------- version 3 -------------------
+# --------------- version 3 ------------------- judge 100%
 
 
 num_lines = int(input())
@@ -83,7 +83,7 @@ for element in lst_all_nums:
 print(lst_to_print)
 
 
-# ------------ version 2 ------------------
+# ------------ version 2 ------------------ judge 100%
 
 
 num_lines = int(input())
@@ -119,7 +119,7 @@ elif command == 'negative':
     print(lst_negative)
 
 
-# # --------------- version 1 -------------------
+# # --------------- version 1 ------------------- judge 100%
 
 
 num_lines = int(input())
@@ -152,3 +152,59 @@ if command == 'positive':
             lst_to_print.append(lst_all_nums[i])
 
 print(lst_to_print)
+
+
+""" --------------- Numbers Filter -----------------
+
+
+On the first line, you will receive a single number 'n'.
+On the following 'n' lines, you will receive integers.
+
+After that, you will be given one of the following commands:
+    •	even
+    •	odd
+    •	negative
+    •	positive
+
+Filter all the numbers that fit in the category (0 counts as a positive and even). Finally, print the result.
+
+
+---------- Test Data -----------
+
+
+Input 1:
+-------
+5
+33
+19
+-2
+18
+998
+even
+
+
+Output 1:
+--------
+[-2, 18, 998]
+
+
+--------------------------------
+
+
+Input 2:
+-------
+3
+111
+-4
+0
+negative
+
+
+Output 2:
+--------
+[-4]
+
+
+--------------------------------
+
+"""
