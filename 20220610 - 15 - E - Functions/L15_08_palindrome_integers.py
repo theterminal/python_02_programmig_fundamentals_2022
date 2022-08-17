@@ -14,7 +14,7 @@ for i in nums:
         print('False')
 
 
-# ------------- version 1 ------- function used ----------------------------
+# ------------- version 2 ------- function used ----------------------------
 
 
 def palindrome(lst_str_nums: list):
@@ -54,3 +54,50 @@ for i in str_num_in:
             print('True')
         else:
             print('False')
+
+
+""" ____________ Palindrome Integers _____________
+
+
+A palindrome is a number that reads the same backward as forward, such as 323 or 1001.
+
+Write a function that receives a list of positive integers, separated by comma and space ", ".
+The function should check if each integer is a palindrome - True or False.
+
+Print the result.
+
+
+________ Test Data _________
+
+
+Input 1:
+-------
+123, 323, 421, 121
+
+
+Output 1:
+--------
+False
+True
+False
+True
+
+
+----------------------------
+
+
+Input 2:
+-------
+32, 2, 232, 1010
+
+
+Output 2:
+--------
+False
+True
+True
+False
+
+
+----------------------------
+"""
