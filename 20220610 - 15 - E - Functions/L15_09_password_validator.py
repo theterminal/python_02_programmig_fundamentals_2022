@@ -2,7 +2,7 @@
 # 09 - Password Validator - judge url: https://judge.softuni.org/Contests/Compete/Index/1728#8
 
 
-# -------------- version 3 --- using 3 functions, .isalnum(), .isdigit(), validate all ------------------
+# ------ version 3 --- using 3 functions and .isalnum(), .isdigit(), validate all ----------- judge 100%
 
 
 def length_is_valid(some_string):
@@ -40,7 +40,7 @@ if all(validate):
     print('Password is valid')
 
 
-# -------------- version 2 --- using 1 function, .isalnum(), .isdigit() ---------------------------------
+# ------- version 2 --- using 1 function and .isalnum(), .isdigit() -------- judge 100%
 
 
 def pass_validator(test_in: str):
@@ -73,7 +73,7 @@ pass_in = input()
 pass_validator(pass_in)
 
 
-# -------------- version 1 --- using 1 function -----------------------------------------------
+# -------------- version 1 --- using 1 function -------------------------- judge 100%
 
 
 def pass_validator(test_in: str):
@@ -106,3 +106,66 @@ def pass_validator(test_in: str):
 
 pass_in = input()
 pass_validator(pass_in)
+
+
+""" __________ Password Validator _____________
+
+
+Write a function that checks if a given password is valid.
+
+Password validations are:
+•	It should be 6 - 10 (inclusive) characters long
+•	It should consist only of letters and digits
+•	It should have at least 2 digits
+
+If a password is valid, print "Password is valid".
+
+Otherwise, for every unfulfilled rule, print a message:
+•	"Password must be between 6 and 10 characters"
+•	"Password must consist only of letters and digits"
+•	"Password must have at least 2 digits"
+
+
+____________ Test Data _____________
+
+
+Input 1:
+-------
+logIn
+
+
+Output 1:
+--------
+Password must be between 6 and 10 characters
+Password must have at least 2 digits
+
+
+------------------------------------
+
+
+Input 2:
+-------
+MyPass123
+
+
+Output 2:
+--------
+Password is valid
+
+
+------------------------------------
+
+
+Input 3:
+-------
+Pa$s$s
+
+
+Output 3:
+--------
+Password must consist only of letters and digits
+Password must have at least 2 digits
+
+
+------------------------------------
+"""
