@@ -2,7 +2,7 @@
 # 05 - Multiplication Sign - judge url: https://judge.softuni.org/Contests/Practice/Index/1729#4
 
 
-# ---------------------------- version 2 -----------------------
+# -------------- version 2 -------------------------- judge 100%
 
 
 def sign(num):
@@ -28,7 +28,7 @@ else:
     print('negative')
 
 
-# ---------------------------- version 1 -----------------------
+# -------------- version 1 -------------------------- judge 100%
 
 
 def sign(num):
@@ -52,3 +52,44 @@ elif sum(final_result) == -1 or sum(final_result) == 3:
     print('positive')
 else:
     print('negative')
+
+
+""" -______________ Multiplication Sign ______________
+
+
+You will receive three integer numbers.
+Write a program that finds if their multiplication (the result) is negative, positive, or zero.
+Try to do this WITHOUT multiplying the 3 numbers.
+
+
+___________ Test Data ______________
+
+
+Input 1:
+-------
+2
+3
+-1
+
+
+Output 1:
+--------
+negative
+
+
+-----------------------------------
+
+
+Input 2:
+-------
+2
+3
+1
+
+
+Output 2:
+--------
+positive
+
+
+"""
