@@ -4,7 +4,8 @@
 import math
 
 
-# !!! NOT 100% VERSION - IT IS 40% ONLY !!!
+# -------------- version 1 -------------------------- judge 40% !!!
+
 
 # returns the coordinates of the longer line
 def longer(abx1, aby1, abx2, aby2, cdx1, cdy1, cdx2, cdy2):
@@ -101,3 +102,64 @@ cd_x2 = float(input())
 cd_y2 = float(input())
 
 longer_line(ab_x1, ab_y1, ab_x2, ab_y2, cd_x1, cd_y1, cd_x2, cd_y2)
+
+
+""" __________ Longer Line ___________
+
+
+You will be given the coordinates of four points.
+The first and the second pair of points form two different lines.
+
+Create a function that prints the longer line in the format:
+
+"({X1}, {Y1})({X2}, {Y2})"
+
+starting from the point which is closer to the center of the coordinate system (0, 0).
+
+You can reuse the method that you wrote for the previous problem.
+If the lines are of equal length, print only the first one.
+The resulting coordinates must be formatted to the lower integer.
+
+
+_____________ Test Data ______________
+
+
+Input 1:
+-------
+2
+4
+-1
+2
+-5
+-5
+4
+-3
+
+
+Ountput 1:
+---------
+(4, -3)(-5, -5)
+
+
+--------------------------------------
+
+
+Input 2:
+-------
+1
+2
+3
+4
+9
+7
+5
+6
+
+
+Output 2:
+--------
+(5, 6)(9, 7)
+
+
+--------------------------------------
+"""
