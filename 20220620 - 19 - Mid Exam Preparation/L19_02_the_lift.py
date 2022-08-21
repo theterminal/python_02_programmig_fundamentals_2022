@@ -1,5 +1,8 @@
-# 20220621 - Python Code - Mid Exam Preparation
+# 20220621 - Python - Mid Exam Preparation
 # 02 - The Lift - judge url: https://judge.softuni.org/Contests/Practice/Index/2517#1
+
+
+# ---------------- version 01 ------------------------------ judge 100%
 
 
 people_waiting = int(input())
