@@ -1,4 +1,4 @@
-# 20220618 - Python Code - Lists Advance - Exercise
+# 20220618 - Python - Lists Advance - Exercise
 # Notes - 01
 
 word = '102Hello'
