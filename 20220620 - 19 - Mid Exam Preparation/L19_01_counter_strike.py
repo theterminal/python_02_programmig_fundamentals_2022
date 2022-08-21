@@ -1,5 +1,8 @@
-# 20220621 - Python Code - Mid Exam Preparation
+# 20220621 - Python - Mid Exam Preparation
 # 01 - Counter-Strike - judge url: https://judge.softuni.org/Contests/Practice/Index/2305#0
+
+
+# ---------------- version 01 ------------------------------ judge 100%
 
 
 energy = int(input())                                               # int [1:10_000]
