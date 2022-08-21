@@ -2,7 +2,7 @@
 # 01 - Which Are In - judge: https://judge.softuni.org/Contests/Compete/Index/1731#0
 
 
-# ----------------------------- version 1 --------------------------
+# ----------------------------- version 1 ------------------------- judge 100%
 
 
 lst_1 = input().split(', ')
@@ -19,7 +19,7 @@ for i in lst_1:
 print(result)
 
 
-# ----------------------------- version 2 --------------------------
+# ----------------------------- version 2 ------------------------- judge 100%
 
 
 lst_1 = input().split(', ')
