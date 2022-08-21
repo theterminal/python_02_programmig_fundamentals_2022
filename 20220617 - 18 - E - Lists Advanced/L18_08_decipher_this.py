@@ -1,8 +1,8 @@
-# 20220618 - Python Code - Lists Advance - Exercise
+# 20220618 - Python - Lists Advance - Exercise
 # 08 - Decipher This - judge: https://judge.softuni.org/Contests/Compete/Index/1731#7
 
 
-# ---------------- version 01 ------------------------------
+# ---------------- version 01 ------------------------------ judge 100%
 
 
 message_in = input().split()
@@ -29,7 +29,7 @@ for word in message_in:
 print(message)
 
 
-# ---------------- version 02 ------------------------------
+# ---------------- version 02 ------------------------------ judge 100%
 
 
 str_in = input().split()
@@ -57,7 +57,7 @@ for word in str_in:
 print(full_word)
 
 
-# ---------------- version 03 ------------------------------
+# ---------------- version 03 ------------------------------ judge 100%
 
 
 str_in = input().split()
@@ -84,3 +84,43 @@ for word in str_in:
     ascii_letter = ''
     alpha_word = ''
 print(full_word)
+
+
+""" _________ Decipher This ____________
+
+
+You are given a secret message you should decipher.
+
+To do that, you need to know that in each word:
+    •	the second and the last letter are switched (e.g., Holle means Hello)
+    •	the first letter is replaced by its character code (e.g., 72 means H)
+
+
+__________ Test Data __________
+
+
+Input 1:
+-------
+72olle 103doo 100ya
+
+
+Output 1:
+---------
+Hello good day
+
+
+-------------------------------
+
+
+Input 2:
+--------
+82yade 115te 103o
+
+
+Output 2:
+---------
+Ready set go
+
+
+-------------------------------
+"""
