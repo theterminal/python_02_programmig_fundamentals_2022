@@ -1,4 +1,4 @@
-# 20220617 - Python Code - Lists Advance - Exercise
+# 20220617 - Python - Lists Advance - Exercise
 # 01 - Which Are In - judge: https://judge.softuni.org/Contests/Compete/Index/1731#0
 
 
@@ -34,3 +34,43 @@ for i in lst_1:
             break
 
 print(result)
+
+
+""" _______________ Which Are In _______________
+
+
+You will be given two sequences of strings, separated by ", ".
+Print a new list containing only the strings from the first input line,
+which are substrings of any string in the second input line.
+
+
+_______ Test Data ________
+
+
+Input 1:
+-------
+arp, live, strong
+lively, alive, harp, sharp, armstrong
+
+
+Output 1:
+--------
+['arp', 'live', 'strong']
+
+
+-------------------------
+
+
+Input 2:
+-------
+tarp, mice, bull
+lively, alive, harp, sharp, armstrong
+
+
+Output 2:
+--------
+[]
+
+
+-------------------------
+"""
