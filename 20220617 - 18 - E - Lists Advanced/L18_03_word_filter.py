@@ -1,4 +1,4 @@
-# 20220617 - Python Code - Lists Advance - Exercise
+# 20220617 - Python - Lists Advance - Exercise
 # 03 - Word Filter - judge: https://judge.softuni.org/Contests/Compete/Index/1731#2
 
 
@@ -22,3 +22,44 @@ for i in [j for j in input().split(' ') if len(j) % 2 == 0]:
 
 
 print('\n'.join([i for i in input().split() if len(i) % 2 == 0]))
+
+
+""" __________ Word Filter __________
+
+
+Using comprehension, write a program that receives some text, separated by space,
+and take only those words whose length is even.
+
+Print each word on a new line.
+
+
+_________ Test Data ___________
+
+
+Input 1:
+-------
+kiwi orange banana apple
+
+
+Output 1:
+--------
+kiwi
+orange
+banana
+
+
+-------------------------------
+
+
+Input 2:
+-------
+pizza cake pasta chips
+
+
+Output 2:
+--------
+cake
+
+
+------------------------------
+"""
