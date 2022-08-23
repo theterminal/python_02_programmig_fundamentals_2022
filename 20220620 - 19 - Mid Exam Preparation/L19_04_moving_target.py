@@ -1,5 +1,8 @@
-# 20220621 - Python Code - Mid Exam Preparation
+# 20220621 - Python - Mid Exam Preparation
 # 04 - Moving Target - judge url: https://judge.softuni.org/Contests/Practice/Index/2305#2
+
+
+# _____________________ version 1 _______________________  judge 100%
 
 
 def func_shoot(index, value, targets):
