@@ -2,6 +2,9 @@
 # 01 - Burger Bus - judge url: https://judge.softuni.org/Contests/Compete/Index/3477#0
 
 
+# ---------------- version 1 --------------------- judge 100%
+
+
 num_cities = int(input())
 total_profit = 0
 
