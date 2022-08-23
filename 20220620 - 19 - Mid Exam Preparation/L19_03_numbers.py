@@ -1,8 +1,8 @@
-# 20220621 - Python Code - Mid Exam Preparation
+# 20220621 - Python - Mid Exam Preparation
 # 03 - Numbers - judge url: https://judge.softuni.org/Contests/Practice/Index/2474#2
 
 
-# ------------------------ version 2 --- w/ functions --------------------------
+# ------------------------ version 2 --- w/ functions -------------------------- judge 100%
 
 
 # returns a list with up to 5 numbers in descending order from a given list of numbers
@@ -35,7 +35,7 @@ result = nums_above_average(nums_in)
 print(result)
 
 
-# ------------------------ version 1 --- no function --------------------------
+# ------------------------ version 1 --- no function -------------------------- judge 100%
 
 
 numbers_in = list(map(int, input().split()))                             # int [-1_000_000 : 1_000_000]
