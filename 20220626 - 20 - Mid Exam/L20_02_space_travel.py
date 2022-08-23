@@ -2,6 +2,9 @@
 # 02 - Space Travel - judge url: https://judge.softuni.org/Contests/Compete/Index/3477#1
 
 
+# ---------------- version 1 --------------------- judge 100%
+
+
 travel_route = input().split('||')
 fuel = int(input())
 ammo = int(input())
