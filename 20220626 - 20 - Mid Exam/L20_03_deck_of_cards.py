@@ -2,6 +2,9 @@
 # 03 - Deck of Cards - judge url: https://judge.softuni.org/Contests/Compete/Index/3477#2
 
 
+# ---------------- version 1 --------------------- judge 100%
+
+
 cards = input().split(', ')
 n = int(input())
 
