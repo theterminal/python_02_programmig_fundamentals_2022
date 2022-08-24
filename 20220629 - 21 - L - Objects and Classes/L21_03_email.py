@@ -1,8 +1,8 @@
-# 20220629 - Python Code - Objects and Classes - Lecture
+# 20220629 - Python - Objects and Classes - Lecture
 # 03 - Email - judge url: https://judge.softuni.org/Contests/Practice/Index/1733#2
 
 
-# ----------------------- version 3 --------------------------------
+# ----------------------- version 3 -------------------------------- judge 100%
 
 
 class Email:
@@ -36,7 +36,7 @@ for email in emails:
     print(email.get_info())
 
 
-# ----------------------- version 2 --------------------------------
+# ----------------------- version 2 -------------------------------- judge 100%
 
 
 class Email:
@@ -74,7 +74,7 @@ for email in emails:
     print(email.get_info())
 
 
-# ----------------------- version 1 --------------------------------
+# ----------------------- version 1 -------------------------------- judge 100%
 
 
 class Email:
