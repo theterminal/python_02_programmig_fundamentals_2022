@@ -1,0 +1,30 @@
+20220629 - Python - Objects and Classes - Lecture
+01 - Comments - judge url: https://judge.softuni.org/Contests/Practice/Index/1733#0
+
+
+Create a class with the name "Comment".
+
+The __init__ method should accept 3 parameters:
+    •	username
+    •	content
+    •	likes (optional, 0 by default)
+
+Use the exact names for your variables
+
+Note: there is no input/output for this problem.
+Test the class yourself and submit only the class
+
+
+__________ Test Code ___________
+
+comment = Comment("user1", "I like this book")
+print(comment.username)
+print(comment.content)
+print(comment.likes)
+
+
+__________ Output ______________
+
+user1
+I like this book
+0
