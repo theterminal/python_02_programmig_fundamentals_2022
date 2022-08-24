@@ -1,8 +1,8 @@
-# 20220701 - Python Code - Objects and Classes - Exercise
+# 20220701 - Python - Objects and Classes - Exercise
 # 05 - Class - judge url: https://judge.softuni.org/Contests/Compete/Index/1734#4
 
 
-# ------------------------- version 1 ------------------------------
+# ------------------------- version 1 ---------------------------- judge 100%
 
 
 class Class:
