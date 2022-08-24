@@ -1,8 +1,8 @@
-# 20220629 - Python Code - Objects and Classes - Lecture
+# 20220629 - Python - Objects and Classes - Lecture
 # 05 - Circle - judge url: https://judge.softuni.org/Contests/Practice/Index/1733#4
 
 
-# ------------------------ version 1 -----------------------------
+# ------------------------ version 1 ----------------------------- judge 100%
 
 
 class Circle:
