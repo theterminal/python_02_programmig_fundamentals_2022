@@ -1,8 +1,8 @@
-# 20220701 - Python Code - Objects and Classes - Exercise
+# 20220701 - Python - Objects and Classes - Exercise
 # 01 - Storage - judge url: https://judge.softuni.org/Contests/Compete/Index/1734#0
 
 
-# ----------------------- version 2 -----------------------------
+# ----------------------- version 2 ----------------------------- judge 100%
 
 
 class Storage:
@@ -30,7 +30,7 @@ storage.add_product("bread")
 print(storage.get_products())
 
 
-# ----------------------- version 1 ----------------------------------------------------------
+# ----------------------- version 1 --------------------------  judge 100%
 # This version will work only if there is one object. If more than 1 object it is not correct!
 
 
