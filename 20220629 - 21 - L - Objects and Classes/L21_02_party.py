@@ -1,5 +1,8 @@
-# 20220629 - Python Code - Objects and Classes - Lecture
+# 20220629 - Python - Objects and Classes - Lecture
 # 02 - Party - judge url: https://judge.softuni.org/Contests/Practice/Index/1733#1
+
+
+# ---------------- version 1 --------------------- judge 100%
 
 
 class Party:
