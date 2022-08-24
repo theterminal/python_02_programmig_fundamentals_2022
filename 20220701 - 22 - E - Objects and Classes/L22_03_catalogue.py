@@ -1,8 +1,8 @@
-# 20220701 - Python Code - Objects and Classes - Exercise
+# 20220701 - Python - Objects and Classes - Exercise
 # 03 - Catalogue - judge url: https://judge.softuni.org/Contests/Compete/Index/1734#2
 
 
-# ------------------------ version 2 ----------------------------------
+# ------------------------ version 2 ---------------------------- judge 100%
 
 
 class Catalogue:
@@ -30,7 +30,7 @@ print(catalogue.get_by_letter("C"))
 print(catalogue)
 
 
-# ------------------------ version 1 ----------------------------------
+# ------------------------ version 1 ------------------------------ judge 100%
 
 
 class Catalogue:
