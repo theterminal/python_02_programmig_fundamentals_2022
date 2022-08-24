@@ -1,8 +1,8 @@
-# 20220629 - Python Code - Objects and Classes - Lecture
+# 20220629 - Python - Objects and Classes - Lecture
 # 04 - Zoo - judge url: https://judge.softuni.org/Contests/Practice/Index/1733#3
 
 
-# ------------------ version 2 -------------------------
+# ------------------ version 2 ------------------------- judge 100%
 
 
 class Zoo:
@@ -49,7 +49,7 @@ species_to_show = input()
 print(zoo.get_info(species_to_show))
 
 
-# ------------------ version 1 -------------------------
+# ------------------ version 1 ------------------------- judge 100%
 
 
 class Zoo:
