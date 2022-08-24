@@ -1,4 +1,4 @@
-# 20220629 - Python Code - Objects and Classes - Lecture
+# 20220629 - Python - Objects and Classes - Lecture
 # Notes 02 - Dynamically attaching attributes
 
 
