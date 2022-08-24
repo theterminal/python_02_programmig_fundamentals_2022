@@ -1,5 +1,8 @@
-# 20220701 - Python Code - Objects and Classes - Exercise
+# 20220701 - Python - Objects and Classes - Exercise
 # 02 - Weapon - judge url: https://judge.softuni.org/Contests/Compete/Index/1734#1
+
+
+# ----------------------- version 1 --------------------------  judge 100%
 
 
 class Weapon:
