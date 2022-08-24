@@ -1,8 +1,8 @@
-# 20220701 - Python Code - Objects and Classes - Exercise
+# 20220701 - Python - Objects and Classes - Exercise
 # 04 - Town - judge url: https://judge.softuni.org/Contests/Compete/Index/1734#3
 
 
-# ------------------------- version 2 ------------------------------
+# ------------------------- version 2 --------------------------- judge 100%
 
 
 class Town:
@@ -27,7 +27,7 @@ town.set_longitude("23° 19\' 26.94\" E")
 print(town)
 
 
-# ------------------------- version 1 ------------------------------
+# ------------------------- version 1 --------------------------- judge 100%
 
 
 class Town:
