@@ -1,4 +1,4 @@
-# 20220521 - Python Code
+# 20220521 - Python
 # Algorithms in Python: Recursion -- Find Uppercase Letter in String
 # https://www.youtube.com/watch?v=dlCGc92tAqo&t=4s
 
