@@ -1,4 +1,4 @@
-# 22020624 - Python Code - L12 - Lists Basics - More Exercise
+# 22020624 - Python - L12 - Lists Basics - More Exercise
 # 05 - Tic Tac Toe - judge url: https://judge.softuni.org/Contests/Practice/Index/1726#4
 
 
