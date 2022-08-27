@@ -1,4 +1,4 @@
-# 20220516 - Python code
+# 20220516 - Python
 
 # L3 - Language Comparison
 
