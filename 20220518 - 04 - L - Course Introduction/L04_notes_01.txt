@@ -1,4 +1,4 @@
-# 20220518 - Python code
+# 20220518 - Python
 
 # L4 - Course Introduction
 
