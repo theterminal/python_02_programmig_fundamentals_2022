@@ -2,6 +2,9 @@
 # 09 - Movie - judge url: https://judge.softuni.org/Contests/Compete/Index/1734#8
 
 
+# ------------------------- version 1 ---------------------------- judge 100%
+
+
 class Movie:
     __watched_movies = 0
     watched_movies = []
