@@ -1,4 +1,4 @@
-# 20220601 - Python Code - L11 - Lists Basics
+# 20220601 - Python - L11 - Lists Basics
 # 04 - Search - judge url: https://judge.softuni.org/Contests/Practice/Index/1724#3
 
 
