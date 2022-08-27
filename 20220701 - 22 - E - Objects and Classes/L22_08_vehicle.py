@@ -1,5 +1,8 @@
-# 20220701 - Python Code - Objects and Classes - Exercise
+# 20220701 - Python - Objects and Classes - Exercise
 # 08 - Vehicle - judge url: https://judge.softuni.org/Contests/Compete/Index/1734#7
+
+
+# ------------------------- version 1 ---------------------------- judge 100%
 
 
 class Vehicle:
