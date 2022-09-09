@@ -1,4 +1,4 @@
-# 20220608 - Python Code - Functions - Lecture
+# 20220608 - Python - Functions - Lecture
 # notes - 01 - Print Absolute Values in a List
 
 
