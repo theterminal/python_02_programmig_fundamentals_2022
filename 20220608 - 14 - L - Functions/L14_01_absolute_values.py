@@ -1,4 +1,4 @@
-# 20220608 - Python Code - Functions - Lecture
+# 20220608 - Python - Functions - Lecture
 # 01 - Absolute Values - judge url: https://judge.softuni.org/Contests/Practice/Index/1727#0
 
 
