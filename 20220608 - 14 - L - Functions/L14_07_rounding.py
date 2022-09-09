@@ -1,4 +1,4 @@
-# 20220614 - Python Code - Functions - Lecture
+# 20220614 - Python - Functions - Lecture
 # 07 - Rounding - judge url: https://judge.softuni.org/Contests/Practice/Index/1727#6
 
 
