@@ -1,4 +1,4 @@
-# 20220614 - Python Code - Functions - Lecture
+# 20220614 - Python - Functions - Lecture
 # 04 - Repeat String - judge url: https://judge.softuni.org/Contests/Practice/Index/1727#3
 
 
