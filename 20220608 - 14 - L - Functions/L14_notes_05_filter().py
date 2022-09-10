@@ -1,4 +1,4 @@
-# 20220608 - Python Code - Functions - Lecture
+# 20220608 - Python - Functions - Lecture
 # 05 - filter() with and without lambda function
 
 
