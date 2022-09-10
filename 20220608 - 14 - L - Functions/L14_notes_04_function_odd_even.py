@@ -1,4 +1,4 @@
-# 20220608 - Python Code - Functions - Lecture
+# 20220608 - Python - Functions - Lecture
 # 04 - Function Odd / Even Number
 
 
