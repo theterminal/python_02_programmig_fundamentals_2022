@@ -1,4 +1,4 @@
-# 20220614 - Python Code - Functions - Exercise
+# 20220614 - Python - Functions - Exercise
 # 09 - Password Validator - judge url: https://judge.softuni.org/Contests/Compete/Index/1728#8
 
 
