@@ -1,8 +1,8 @@
-# 20220614 - Python Code - Functions - Exercise
+# 20220614 - Python - Functions - Exercise
 # 08 - Palindrome Integers - judge url: https://judge.softuni.org/Contests/Compete/Index/1728#7
 
 
-# ------------- version 3 --------------------------------------------------
+# ------------- version 3 ---------------------------------------- judge 100% ----------
 
 
 nums = input().split(', ')
@@ -14,7 +14,7 @@ for i in nums:
         print('False')
 
 
-# ------------- version 2 ------- function used ----------------------------
+# ------------- version 2 ------- function used ------------------ judge 100% ----------
 
 
 def palindrome(lst_str_nums: list):
@@ -37,7 +37,7 @@ str_num_in = input().split(', ')
 palindrome(str_num_in)
 
 
-# ------------- version 1 ------- no function used ----------------------------
+# ------------- version 1 ------- no function used ------------------ judge 100% ----------
 
 
 str_num_in = input().split(', ')
