@@ -1,4 +1,4 @@
-# 20220614 - Python Code - Functions - Exercise
+# 20220614 - Python - Functions - Exercise
 # 07 - Mim Max and Sum - judge url: https://judge.softuni.org/Contests/Compete/Index/1728#6
 
 
