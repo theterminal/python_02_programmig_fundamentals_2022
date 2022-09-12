@@ -1,4 +1,4 @@
-# 20220615 - Python Code - Functions - Exercise
+# 20220615 - Python - Functions - Exercise
 # 11 - Loading Bar - judge url: https://judge.softuni.org/Contests/Compete/Index/1728#10
 
 
