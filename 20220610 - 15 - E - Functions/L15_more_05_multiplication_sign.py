@@ -1,4 +1,4 @@
-# 20220615 - Python Code - Functions - More Exercise
+# 20220615 - Python - Functions - More Exercise
 # 05 - Multiplication Sign - judge url: https://judge.softuni.org/Contests/Practice/Index/1729#4
 
 
