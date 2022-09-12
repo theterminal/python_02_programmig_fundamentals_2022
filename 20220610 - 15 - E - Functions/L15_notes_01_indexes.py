@@ -1,4 +1,4 @@
-# 20220614 - Python Code - Functions - Exercise
+# 20220614 - Python - Functions - Exercise
 
 
 list_1 = [1, -2, 3, 4]
