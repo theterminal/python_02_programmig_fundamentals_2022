@@ -1,4 +1,4 @@
-# 20220616 - Python Code
+# 20220616 - Python
 # Lambda examples
 
 
