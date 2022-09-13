@@ -1,5 +1,6 @@
-# 20220601 - Python Code - L11 - Lists Basics
+# 20220601 - Python - L11 - Lists Basics
 # Notes 03
+
 
 # ------------------------ Creating a list from range --------
 print('\n----- ex. 1 ----- Creating a list from range -----\n')
