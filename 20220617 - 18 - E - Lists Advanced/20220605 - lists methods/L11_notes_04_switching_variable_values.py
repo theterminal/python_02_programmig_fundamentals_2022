@@ -1,5 +1,6 @@
-# 20220601 - Python Code - L11 - Lists Basics
+# 20220601 - Python - L11 - Lists Basics
 # Notes 04
+
 
 # ------------------------ Switching variable values --------
 print('\n----- ex. 1 ----- Switching variable values -----\n')
