@@ -1,4 +1,4 @@
-# 20220615 - Python Code - Functions - Exercise
+# 20220615 - Python - Functions - Exercise
 # Notes - Perfect Number
 
 
