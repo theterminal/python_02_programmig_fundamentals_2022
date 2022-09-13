@@ -1,4 +1,4 @@
-# 20220604 - Python Code - L11 - Lists Basics
+# 20220604 - Python - L11 - Lists Basics
 # Notes 05
 
 
