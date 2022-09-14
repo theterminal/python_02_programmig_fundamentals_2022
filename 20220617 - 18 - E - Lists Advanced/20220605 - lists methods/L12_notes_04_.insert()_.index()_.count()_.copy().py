@@ -1,4 +1,4 @@
-# 20220603 - Python Code - L12 - Lists Basics - Exersice
+# 20220603 - Python - L12 - Lists Basics - Exersice
 # Notes 04
 
 
