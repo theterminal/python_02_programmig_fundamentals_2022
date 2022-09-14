@@ -1,5 +1,6 @@
-# 20220612 - Python Code - L12 - Lists Basics - Exersice
+# 20220612 - Python - L12 - Lists Basics - Exersice
 # Notes 06
+
 
 # -------------------------- .casefold() ------------------------
 print('\n\n----- ex. 1 ----- .casefold() --------------------\n\n')
