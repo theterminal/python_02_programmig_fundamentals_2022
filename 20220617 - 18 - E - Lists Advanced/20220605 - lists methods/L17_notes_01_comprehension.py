@@ -1,5 +1,6 @@
-# 20220615 - Python Code - Lists Advance - Lecture
+# 20220615 - Python - Lists Advance - Lecture
 # Notes - 01 - List Comprehension
+
 
 # ------------------- 01 ------------------------------------------------------
 print('\n\n------- ex. 1 -------------------------------------------------\n\n')
