@@ -1,4 +1,4 @@
-# 20220615 - Python Code - Lists Advance - Lecture
+# 20220615 - Python - Lists Advance - Lecture
 # Notes - 02 - List Comprehensions
 
 
