@@ -1,4 +1,4 @@
-# 20220628 - Python Code
+# 20220628 - Python
 # any(), all()
 
 
