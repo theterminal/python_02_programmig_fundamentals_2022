@@ -1,0 +1,23 @@
+body{
+    background-color: #dcdcdc;
+}
+h1{
+    margin: 25px auto;
+    width: fit-content;
+    word-break: break-all;
+}
+.box{
+    width: 75%;
+    margin: 25px auto;
+    padding: 15px;
+    background-color: #c0b1f0;
+}
+.inner{
+    width: fit-content;
+    margin: auto;
+}
+img{
+    margin: 25px auto;
+    width: 75%;
+    display: block;
+}
