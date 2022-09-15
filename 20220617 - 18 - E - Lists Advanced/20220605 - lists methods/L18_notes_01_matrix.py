@@ -1,4 +1,4 @@
-# 20220620 - Python Code - List Advanced - Exercise
+# 20220620 - Python - List Advanced - Exercise
 # Notes 01
 
 
