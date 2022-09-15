@@ -1,4 +1,4 @@
-# 20220618 - Python Code - Lists Advance - Lecture
+# 20220618 - Python - Lists Advance - Lecture
 # Notes - 07 - set()
 
 
@@ -11,6 +11,7 @@ print(lst_10)
 
 set_10 = set(lst_10)
 print(set_10)
+
 
 # ------------------------------------------------------
 print('\n\n------ ex. 2 ----- list(set())----------\n\n')
