@@ -1,4 +1,4 @@
-# 20220618 - Python Code - Lists Advance - Lecture
+# 20220618 - Python - Lists Advance - Lecture
 # Notes - 08 - Additional Information - APIs
 
 import json
