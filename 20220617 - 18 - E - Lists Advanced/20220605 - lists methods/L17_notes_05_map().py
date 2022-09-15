@@ -1,4 +1,4 @@
-# 20220617 - Python Code - Lists Advance - Lecture
+# 20220617 - Python - Lists Advance - Lecture
 # Notes - 05 - map()
 
 
