@@ -1,4 +1,4 @@
-# 20220712 - Python Code - Dictionaries - Lecture
+# 20220712 - Python - Dictionaries - Lecture
 # Notes - 05 - Dictionaries - zip function
 
 
