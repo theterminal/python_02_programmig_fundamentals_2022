@@ -1,4 +1,4 @@
-# 20220706 - Python Code - Dictionaries - Lecture
+# 20220706 - Python - Dictionaries - Lecture
 # Notes - 02 - Iterations
 
 
