@@ -23,3 +23,32 @@ The class should also have three more methods:
 {itemN}"
 
 The items should be sorted alphabetically in ascending order.
+
+
+_______________ Test Data ________________
+
+
+Input 1:
+-------
+catalogue = Catalogue("Furniture")
+catalogue.add_product("Sofa")
+catalogue.add_product("Mirror")
+catalogue.add_product("Desk")
+catalogue.add_product("Chair")
+catalogue.add_product("Carpet")
+print(catalogue.get_by_letter("C"))
+print(catalogue)
+
+
+Output 1:
+--------
+["Chair", "Carpet"]
+Items in the Furniture catalogue:
+Carpet
+Chair
+Desk
+Mirror
+Sofa
+
+
+--------------------------------------------
