@@ -1,4 +1,4 @@
-# 20220706 - Python Code - Dictionaries - Lecture
+# 20220706 - Python - Dictionaries - Lecture
 # 02 - Stock - judge url: https://judge.softuni.org/Contests/Practice/Index/1736#1
 
 
