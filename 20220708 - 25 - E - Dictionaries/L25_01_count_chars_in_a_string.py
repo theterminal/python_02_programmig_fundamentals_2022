@@ -1,4 +1,4 @@
-# 20220713 - Python Code - Dictionaries - Exercise
+# 20220713 - Python - Dictionaries - Exercise
 # 01 - Count Chars In A String - judge url: https://judge.softuni.org/Contests/Compete/Index/1737#0
 
 
