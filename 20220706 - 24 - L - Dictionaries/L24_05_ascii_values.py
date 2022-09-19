@@ -1,4 +1,4 @@
-# 20220712 - Python Code - Dictionaries - Lecture
+# 20220712 - Python - Dictionaries - Lecture
 # 05 - ASCII Values - judge url: https://judge.softuni.org/Contests/Practice/Index/1736#4
 
 
