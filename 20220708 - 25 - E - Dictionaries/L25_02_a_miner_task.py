@@ -1,4 +1,4 @@
-# 20220713 - Python Code - Dictionaries - Exercise
+# 20220713 - Python - Dictionaries - Exercise
 # 02 - A Miner Task - judge url: https://judge.softuni.org/Contests/Compete/Index/1737#1
 
 
