@@ -1,4 +1,4 @@
-# 20220712 - Python Code
+# 20220712 - Python
 # Fibonacci Sequence, Tribonacci Sequence :)
 
 
