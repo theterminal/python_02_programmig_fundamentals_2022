@@ -1,4 +1,4 @@
-# 20220713 - Python Code - Dictionaries - Lecture
+# 20220713 - Python - Dictionaries - Lecture
 # 07 - Word Synonyms - judge url: https://judge.softuni.org/Contests/Practice/Index/1736#6
 
 
