@@ -1,5 +1,8 @@
-# 20220706 - Python Code - Dictionaries - Lecture
+# 20220706 - Python - Dictionaries - Lecture
 # 04 - Students - judge url: https://judge.softuni.org/Contests/Practice/Index/1736#3
+
+
+# --------------------- version 1 --------------------------- judge 100%
 
 
 students = {}
