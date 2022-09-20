@@ -1,8 +1,9 @@
-# 20220713 - Python Code - Dictionaries - Exercise
+# 20220713 - Python - Dictionaries - Exercise
 # 03 - Capitals - judge url: https://judge.softuni.org/Contests/Compete/Index/1737#2
 
 
 # ------------- version 2 --------- comprehension, no zip ----------- judge: 100%
+
 
 countries = input().split(', ')
 cities = input().split(', ')
@@ -15,6 +16,7 @@ for k, v in result.items():
 
 # ------------- version 1 --------- no comprehension, with zip ---------- judge: 100%
 
+
 countries = input().split(', ')
 cities = input().split(', ')
 
@@ -23,6 +25,7 @@ for country, city in zip(countries, cities):
 
 
 # ------------- version 3 --------- no comprehension, with zip ---------- judge: 100%
+
 
 countries = input().split(', ')
 cities = input().split(', ')
