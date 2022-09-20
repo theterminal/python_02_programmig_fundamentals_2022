@@ -1,4 +1,4 @@
-# 20220714 - Python Code - Dictionaries - Exercise
+# 20220714 - Python - Dictionaries - Exercise
 # 05 - Legendary Farming - judge url: https://judge.softuni.org/Contests/Compete/Index/1737#4
 
 
