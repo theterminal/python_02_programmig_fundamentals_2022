@@ -1,4 +1,4 @@
-# 20220713 - Python Code - Dictionaries - Exercise
+# 20220713 - Python - Dictionaries - Exercise
 # 04 - Phonebook - judge url: https://judge.softuni.org/Contests/Compete/Index/1737#3
 
 
