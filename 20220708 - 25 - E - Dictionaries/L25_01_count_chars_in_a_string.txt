@@ -1,0 +1,38 @@
+20220713 - Python - Dictionaries - Exercise
+01 - Count Chars In A String - judge url: https://judge.softuni.org/Contests/Compete/Index/1737#0
+
+
+Write a program that counts all characters in a string except for space (" ").
+
+Print all the occurrences in the following format:
+"{char} -> {occurrences}"
+
+
+______________ Test Data _______________
+
+
+Input 1:
+-------
+text
+
+
+Output 1:
+--------
+t -> 2
+e -> 1
+x -> 1
+
+
+----------------------------------------
+
+
+Input 2:
+-------
+text text text
+
+
+Output 2:
+--------
+t -> 6
+e -> 3
+x -> 3
