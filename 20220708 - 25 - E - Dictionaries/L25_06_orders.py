@@ -1,4 +1,4 @@
-# 20220714 - Python Code - Dictionaries - Exercise
+# 20220714 - Python - Dictionaries - Exercise
 # 06 - Orders - judge url: https://judge.softuni.org/Contests/Compete/Index/1737#5
 
 
