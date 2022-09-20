@@ -1,8 +1,9 @@
-# 20220714 - Python Code - Dictionaries - Exercise
+# 20220714 - Python - Dictionaries - Exercise
 # 10 - Company Users - judge url: https://judge.softuni.org/Contests/Compete/Index/1737#9
 
 
 # ------------------------ version 2 ----------------- judge: 100%
+
 
 db = {}
 
