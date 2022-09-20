@@ -1,0 +1,36 @@
+20220712 - Python - Dictionaries - Lecture
+05 - ASCII Values - judge url: https://judge.softuni.org/Contests/Practice/Index/1736#4
+
+
+Write a program that receives a list of characters separated by ", ".
+It should create a dictionary with each character as a key and its ASCII value as a value.
+Try solving that problem using comprehension.
+
+
+____________ Test Data ____________
+
+
+Input 1:
+-------
+a, b, c, a
+
+
+Output 1:
+--------
+{'a': 97, 'b': 98, 'c': 99}
+
+
+-----------------------------------
+
+
+Input 2:
+-------
+d, c, m, h
+
+
+Output 2:
+--------
+{'d': 100, 'c': 99, 'm': 109, 'h': 104}
+
+
+------------------------------------
