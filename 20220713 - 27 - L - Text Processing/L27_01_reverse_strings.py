@@ -1,4 +1,4 @@
-# 20220714 - Python Code - String Processing - Lecture
+# 20220714 - Python - String Processing - Lecture
 # 01 - Reverse Strings - judge url: https://judge.softuni.org/Contests/Practice/Index/1739#0
 
 
@@ -14,6 +14,7 @@ while True:
 
 
 # ------------------- version 2 ------------ reversed ---------- judge: 100%
+
 
 rev_d = ''
 
