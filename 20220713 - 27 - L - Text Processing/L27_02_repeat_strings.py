@@ -1,4 +1,4 @@
-# 20220714 - Python Code - String Processing - Lecture
+# 20220714 - Python - String Processing - Lecture
 # 02 - Repeat Strings - judge url: https://judge.softuni.org/Contests/Practice/Index/1739#1
 
 
