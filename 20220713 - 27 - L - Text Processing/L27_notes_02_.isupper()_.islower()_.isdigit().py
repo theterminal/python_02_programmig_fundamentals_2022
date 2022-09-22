@@ -1,4 +1,4 @@
-# 20220714 - Python Code - String Processing - Lecture
+# 20220714 - Python - String Processing - Lecture
 # 02 - Notes
 
 
@@ -9,6 +9,8 @@ print('1'.isdigit())
 print('p'.isdigit())
 
 print()
+
+
 # ---------------- .isupper() -------------------------
 
 
@@ -16,6 +18,8 @@ print('p'.isupper())
 print('K'.isupper())
 
 print()
+
+
 # ---------------- .islower() -------------------------
 
 
