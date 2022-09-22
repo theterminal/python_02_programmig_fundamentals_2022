@@ -1,4 +1,4 @@
-# 20220714 - Python Code - String Processing - Lecture
+# 20220714 - Python - String Processing - Lecture
 # 01 - Notes
 
 
