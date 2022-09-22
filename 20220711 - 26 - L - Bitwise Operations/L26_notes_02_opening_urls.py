@@ -1,4 +1,4 @@
-# 20220713 - Python Code - from: https://github.com/CodingPawn/python/blob/main/web-automation/web_automation.py
+# 20220713 - Python - from: https://github.com/CodingPawn/python/blob/main/web-automation/web_automation.py
 
 
 import webbrowser
