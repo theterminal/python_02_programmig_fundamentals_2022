@@ -1,4 +1,4 @@
-# 20220715 - Python Code - String Processing - Lecture
+# 20220715 - Python - String Processing - Lecture
 # 04 - Text Filter - judge url: https://judge.softuni.org/Contests/Practice/Index/1739#3
 
 
