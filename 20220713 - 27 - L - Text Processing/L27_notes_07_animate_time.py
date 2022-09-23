@@ -1,4 +1,4 @@
-# 20220715 - Python Code
+# 20220715 - Python
 # Notes 07 - Animate Time
 
 # https://www.onlinegdb.com/
