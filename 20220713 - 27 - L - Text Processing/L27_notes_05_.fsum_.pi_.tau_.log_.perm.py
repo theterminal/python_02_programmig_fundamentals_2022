@@ -1,4 +1,4 @@
-# 20220715 - Python Code - String Processing - Lecture
+# 20220715 - Python - String Processing - Lecture
 # 05 - Notes
 
 
@@ -11,6 +11,8 @@ print(math.fsum([0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, ]))
 
 
 print()
+
+
 # -------------- permutations, variations --------------------
 
 
@@ -26,5 +28,3 @@ print()
 
 print(math.pi)
 print(math.tau)
-
-
