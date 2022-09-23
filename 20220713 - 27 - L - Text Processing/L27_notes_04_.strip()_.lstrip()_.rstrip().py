@@ -1,4 +1,4 @@
-# 20220715 - Python Code - String Processing - Lecture
+# 20220715 - Python - String Processing - Lecture
 # 04 - Notes
 
 
@@ -12,6 +12,8 @@ txt = txt.strip()
 print(txt)
 
 print()
+
+
 # ---------------- .lstrip() -------------------------
 
 
@@ -22,6 +24,8 @@ txt = txt.lstrip()
 print(txt)
 
 print()
+
+
 # ---------------- .rstrip() -------------------------
 
 
