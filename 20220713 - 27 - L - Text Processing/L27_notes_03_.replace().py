@@ -1,4 +1,4 @@
-# 20220715 - Python Code - String Processing - Lecture
+# 20220715 - Python - String Processing - Lecture
 # 03 - Notes
 
 
@@ -14,6 +14,8 @@ print(txt)
 
 
 print()
+
+
 # ------------ using the count parameter in the method -----------------
 
 
@@ -28,6 +30,8 @@ print(txt)
 
 
 print()
+
+
 # ------------ when searching in substring -----------------------------
 
 
