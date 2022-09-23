@@ -1,4 +1,4 @@
-# 20220715 - Python Code - String Processing - Exercise
+# 20220715 - Python - String Processing - Exercise
 # 03 - Extract File - judge url: https://judge.softuni.org/Contests/Compete/Index/1740#2
 
 
