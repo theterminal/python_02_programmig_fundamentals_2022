@@ -1,0 +1,89 @@
+20220518 - Python - Python Fundamentals - L5 - Basic Syntax, Conditional Statements, Loops
+01 - Number Definer - judge url: https://judge.softuni.org/Contests/Practice/Index/1718#0
+
+
+Write a program that reads a floating-point number and:
+
+-	prints "zero" if the number is zero
+-	prints "positive" or "negative"
+-	adds "small" if the absolute value of the number is less than 1 and it is not 0, or "large" if it exceeds 1 000 000
+
+
+--------------- Test Data -----------------
+
+
+Input 1:
+-------
+25
+
+
+Output 1:
+--------
+positive
+
+
+------------------------------------------
+
+
+Input 2:
+-------
+0.7
+
+Output 2:
+--------
+small positive
+
+
+------------------------------------------
+
+
+Input 3:
+-------
+435247392.921
+
+
+Output 3:
+--------
+large positive
+
+
+------------------------------------------
+
+
+Input 4:
+-------
+-0.005
+
+
+Output 4:
+--------
+small negative
+
+
+------------------------------------------
+
+
+Input 5:
+-------
+-103.21
+
+
+Output 5:
+--------
+negative
+
+
+------------------------------------------
+
+
+Input 6:
+-------
+-358583355123.001
+
+
+Output 6:
+--------
+large negative
+
+
+-----------------------------------------
