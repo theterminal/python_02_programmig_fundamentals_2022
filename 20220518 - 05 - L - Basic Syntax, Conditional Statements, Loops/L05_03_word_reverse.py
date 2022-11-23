@@ -19,25 +19,3 @@ for i in range(len(word_1) - 1, -1, -1):
     reversed_word += word_1[i]
 
 print(reversed_word)
-
-
-""" --------- Word Reverse ---------
-
-
-Write a program that receives a single word, reverses it, and prints it.
-
-
-------------- Examples -------------
-
-
-Input 1:                Output 1:
--------                 --------
-Python                  nohtyP
-
-
-Input 2:                Output 2:
--------                 --------
-banana                  ananab
-
-
-"""
