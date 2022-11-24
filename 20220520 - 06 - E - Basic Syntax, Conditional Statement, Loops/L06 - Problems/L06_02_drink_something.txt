@@ -1,0 +1,73 @@
+20220521 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
+02 - Drink Something - judge url: https://judge.softuni.org/Contests/Compete/Index/1719#1
+
+
+•	Kids drink toddy
+•	Teens drink coke
+•	Young adults drink beer
+•	Adults drink whisky
+
+Create a program that receives a person's age and prints what he/she drinks.
+
+Rules:
+•	A kid is defined as someone under or at the age of 14.
+•	A teen is defined as someone under or at the age of 18.
+•	A young adult is defined as someone under or at the age of 21.
+•	An adult is defined as someone above the age of 21.
+
+Note: All the values are inclusive except the last one!
+
+
+--------- Test Data -----------------
+
+
+Input 1:
+-------
+13
+
+
+Output 1:
+--------
+drink toddy
+
+
+-------------------------------------
+
+
+Input 2:
+-------
+17
+
+
+Output 2:
+--------
+drink coke
+
+
+-------------------------------------
+
+
+Input 3:
+-------
+21
+
+
+Output 3:
+--------
+drink beer
+
+
+-------------------------------------
+
+
+Input 4:
+-------
+30
+
+
+Output 4:
+--------
+drink whisky
+
+
+-------------------------------------
