@@ -1,0 +1,34 @@
+20220525 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
+More Exercise 01 - Find The Largest - judge url: https://judge.softuni.org/Contests/Practice/Index/1720#0
+
+
+You will be given a number.
+Print the largest number that can be formed from the digits of the given number.
+
+
+--------- Test Data -----------
+
+
+Input 1:
+-------
+213
+
+
+Output 1:
+--------
+321
+
+-------------------------------
+
+
+Input 2:
+-------
+7389
+
+
+Output 2:
+--------
+9873
+
+
+-------------------------------
