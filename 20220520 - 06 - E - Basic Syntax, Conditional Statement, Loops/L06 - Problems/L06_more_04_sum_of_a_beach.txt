@@ -1,0 +1,61 @@
+20220528 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
+More Exercise 04 - Sum of a Beach - judge url: https://judge.softuni.org/Contests/Practice/Index/1720#3
+
+
+Beaches are filled with sand, water, fish, and sun.
+Given a string, calculate how many times the words "Sand", "Water", "Fish", and "Sun" appear (case insensitive).
+
+
+--------------- Test Data ------------------
+
+
+Input 1:
+-------
+WAtErSlIde
+
+
+Output 1:
+--------
+1
+
+
+--------------------------------------------
+
+
+Input 2:
+-------
+GolDeNSanDyWateRyBeaChSuNN
+
+
+Output 2:
+--------
+3
+
+
+--------------------------------------------
+
+
+Input 3:
+-------
+gOfIshsunesunFiSh
+
+
+Output 3:
+--------
+4
+
+
+--------------------------------------------
+
+
+Input 4:
+-------
+cItYTowNcARShoW
+
+
+Output 4:
+--------
+0
+
+
+--------------------------------------------
