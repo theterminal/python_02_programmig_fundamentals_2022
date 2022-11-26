@@ -23,10 +23,12 @@ Start cooking the loaves and keep making them until you have enough budget.
 Keep in mind that:
     •	For every loaf of bread that you make, you will receive 3 colored eggs.
 
-    •	For every 3rd bread you make, you will lose some of your colored eggs after receiving the usual 3 colored eggs for your bread.
-        The count of eggs you will lose is calculated when you subtract 2 from your current count of loaves - ({current_bread_count} - 2)
+    •	For every 3rd bread you make, you will lose some of your colored eggs after
+        receiving the usual 3 colored eggs for your bread. The count of eggs you will lose is calculated when you
+        subtract 2 from your current count of loaves - ({current_bread_count} - 2)
 
-In the end, print the loaves of bread you made, the eggs you have collected, and the money you have left, formatted to the 2nd decimal place, in the following format:
+In the end, print the loaves of bread you made, the eggs you have collected, and the money you have left,
+formatted to the 2nd decimal place, in the following format:
 "You made {number_of_loaves} loaves of Easter bread! Now you have {colored_eggs} eggs and {money_left}BGN left."
 
 
@@ -40,7 +42,8 @@ Input / Constraints:
 
 Output:
 ------
-    •	In the end, print the number of loaves of Easter bread you have made, the colored eggs you have gathered, and the money formatted to the 2nd decimal place in the format described above.
+    •	In the end, print the number of loaves of Easter bread you have made, the colored eggs you have gathered,
+        and the money formatted to the 2nd decimal place in the format described above.
 
 
 --------------- Test Data ---------------
