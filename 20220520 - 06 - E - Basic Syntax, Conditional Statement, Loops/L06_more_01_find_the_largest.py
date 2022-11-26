@@ -30,29 +30,3 @@ for _ in range(len(num_entered)):
     num_entered = num_entered[:count_index] + num_entered[count_index + 1:]
 
 print(new_str_num)
-
-
-""" -----------------  Find The Largest -------------------
-
-
-You will be given a number.
-Print the largest number that can be formed from the digits of the given number.
-
-
---------- Test Data -----------
-
-
-Input 1:            Output 1:
--------             --------
-213                 321
-
-
--------------------------------
-
-
-Input 2:            Output 2:
--------             --------
-7389                9873
-
-
-"""
