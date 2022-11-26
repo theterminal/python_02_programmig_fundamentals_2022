@@ -1,0 +1,46 @@
+20220521 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
+10 - Mutate Strings - judge url: https://judge.softuni.org/Contests/Compete/Index/1719#9
+
+
+You will be given two strings.
+Transform the first string into the second one, letter by letter, starting from the first one.
+After each interaction, print the resulting string only if it is unique.
+
+Note: the strings will have the same length.
+
+
+------------ Test Data ------------
+
+
+Input 1:
+-------
+bubble gum
+turtle hum
+
+
+Output 1:
+--------
+tubble gum
+turble gum
+turtle gum
+turtle hum
+
+
+----------------------------------
+
+
+Input 2:
+-------
+Kitty
+Doggy
+
+
+Output 2:
+--------
+Ditty
+Dotty
+Dogty
+Doggy
+
+
+----------------------------------
