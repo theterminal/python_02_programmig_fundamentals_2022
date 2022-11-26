@@ -1,0 +1,40 @@
+20220521 - Python - Python Fundamentals - L6 - Basic Syntax, Conditional Statements, Loops
+07 - Double Char - judge url: https://judge.softuni.org/Contests/Compete/Index/1719#6
+
+
+You will be given strings until you receive the command "End".
+For each string given, you should print a string in which each character (case-sensitive) is repeated twice.
+Note that if you receive the string "SoftUni", you should NOT print it!
+
+
+----------- Test Data ------------
+
+
+Input 1:
+-------
+Hello World
+Repeat
+End
+
+
+Output 1:
+--------
+HHeelllloo  WWoorrlldd
+RReeppeeaatt
+
+
+---------------------------------
+
+
+Input 2:
+-------
+1234!
+SoftUni
+softuni
+End
+
+
+Output 2:
+--------
+11223344!!
+ssooffttuunnii
