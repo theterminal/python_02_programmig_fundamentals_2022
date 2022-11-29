@@ -1,0 +1,35 @@
+20220529 - Python - Python Fundamentals - L08 - Data Types and Variables
+05 - Pounds to Dollars - judge url: https://judge.softuni.org/Contests/Practice/Index/1721#4
+
+
+Write a program that converts British pounds (integer) to US dollars formatted to the 3rd decimal point.
+1 British Pound = 1.31 Dollars.
+
+
+---------- Test Data -------------
+
+
+Input 1:
+-------
+80
+
+
+Output 1:
+--------
+104.800
+
+
+----------------------------------
+
+
+Input 2:
+-------
+39
+
+
+Output 2:
+--------
+51.090
+
+
+----------------------------------
