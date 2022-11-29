@@ -1,0 +1,55 @@
+20220529 - Python - Python Fundamentals - L08 - Data Types and Variables
+03 - Special Numbers - judge url: https://judge.softuni.org/Contests/Practice/Index/1721#2
+
+
+Write a program that reads an integer 'n'.
+Then, for all numbers in the range [1, n], prints the number and if it is special or not (True / False).
+A number is special when the sum of its digits is 5, 7, or 11.
+
+
+----------- Test Data ------------
+
+
+Input 1:
+-------
+15
+
+
+Output 1:
+--------
+1 -> False
+2 -> False
+3 -> False
+4 -> False
+5 -> True
+6 -> False
+7 -> True
+8 -> False
+9 -> False
+10 -> False
+11 -> False
+12 -> False
+13 -> False
+14 -> True
+15 -> False
+
+
+----------------------------------
+
+
+Input 2:
+-------
+6
+
+
+Output 2:
+--------
+1 -> False
+2 -> False
+3 -> False
+4 -> False
+5 -> True
+6 -> False
+
+
+----------------------------------
