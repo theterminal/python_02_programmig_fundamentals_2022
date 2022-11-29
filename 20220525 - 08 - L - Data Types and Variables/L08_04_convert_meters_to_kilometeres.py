@@ -9,39 +9,3 @@ distance_meters = int(input())
 distance_kilometers = distance_meters / 1000
 
 print(f'{distance_kilometers:.2f}')
-
-
-""" ----------------- Convert Meters to Kilometres ------------------
-
-
-You will be given an integer that represents a distance in meters.
-Write a program that converts meters to kilometers formatted to the second decimal point.
-
-
---------- Test Data ----------
-
-
-Input 1:
--------
-1852
-
-
-Output 1:
---------
-1.85
-
-
-------------------------------
-
-
-Input 2:
--------
-798
-
-
-Output 2:
---------
-0.80
-
-
-"""
