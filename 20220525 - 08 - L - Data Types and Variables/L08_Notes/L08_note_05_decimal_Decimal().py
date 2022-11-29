@@ -4,7 +4,6 @@
 import decimal
 
 
-# -----------------------------------------------------------
 # It'll print every iteration while 'n' > 0, and then it'll print the 'print' statement inside the 'else' statement!
 
 
@@ -46,10 +45,8 @@ else:
     print(f'n = {n} from \'the \'else\' of the while n\' -> iteration # {counter}')
 
 
-# ----------------------------------------------------------
-
-
 print('\n------------ Example 3 -----------------\n')
+
 
 float_division = 4/3
 decimal_division = decimal.Decimal(4) / decimal.Decimal(3)
@@ -61,10 +58,8 @@ print(f'Result for decimal division of 4 by 3: {decimal_division}\n')
 print(decimal.getcontext())
 
 
-# ----------------------------------------------------------
-
-
 print('\n------------ Example 4 -----------------\n')
+
 
 num_1 = decimal.Decimal(4)
 num_2 = decimal.Decimal(3)
@@ -78,10 +73,8 @@ num_4 = round(num_3, 2)
 print("Rounded value upto two decimal points is:", num_4)
 
 
-# -----------------------------------------------------------
-
-
 print('\n------------ Example 5 -----------------\n')
+
 
 x = decimal.Decimal('1.2')
 y = decimal.Decimal('2.2')
