@@ -28,38 +28,3 @@ hours = days * 24
 minutes = hours * 60
 
 print(f'{centuries_entered} centuries = {years} years = {days} days = {hours} hours = {minutes} minutes')
-
-
-""" ---------------------- Centuries To Minutes ------------------------
-
-
-Write a program that reads an integer number of centuries and converts it to years, days, hours, and minutes.
-
-
-------- Test Data ----------
-
-
-Input 1:
--------
-1
-
-
-Output 1:
---------
-1 centuries = 100 years = 36524 days = 876576 hours = 52594560 minutes
-
-
-----------------------------
-
-
-Input 2:
--------
-5
-
-
-Output 2:
---------
-5 centuries = 500 years = 182621 days = 4382904 hours = 262974240 minutes
-
-
-"""
