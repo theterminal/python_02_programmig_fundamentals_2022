@@ -8,7 +8,6 @@ from itertools import permutations
 # where 'iterable' is a Tuple, 'r' is num elements in the group, from all elements.
 
 
-# -------------------------------------------
 print('\n--------- Example 1 ------------\n')
 
 
@@ -16,7 +15,6 @@ for i in permutations((1, 2, 3)):               # 'r' parameter can be omitted, 
     print(i)
 
 
-# -------------------------------------------
 print('\n--------- Example 2 ------------\n')
 
 
@@ -25,7 +23,6 @@ for i in permutations(tup_1, 3):                # 'r' parameter cannot exceed th
     print(i)
 
 
-# -------------------------------------------
 print('\n--------- Example 3 ------------\n')
 
 
@@ -35,7 +32,6 @@ for i in permutations(tup_1, len(tup_1) - 1):   # 'r' parameter can be a formula
     print(i)
 
 
-# -------------------------------------------
 print('\n--------- Example 4 ------------\n')
 
 
@@ -45,7 +41,6 @@ for i in all_permutations:
     print(i)
 
 
-# -------------------------------------------
 print('\n--------- Example 5 ------------\n')
 
 
@@ -55,7 +50,7 @@ for i in permutations((1, 2, 3), 3):        # the correct syntax
     print()
 
 
-# -------------------------------------------
+print('\n--------- Example 6 ------------\n')
 
 
 print('\nPermutations from List')
@@ -64,10 +59,13 @@ for i in permutations([1, 2, 3], 3):        # this works fine but syntax should 
     print()
 
 
-# -------------------------------------------
+print('\n--------- Example 7 ------------\n')
 
 
 print('\nPermutations from Set')
 for i in permutations({1, 2, 3}, 3):        # this works fine but syntax should be as Tuple
     print(i, end=f"   ->   {type(i)}")
     print()
+
+
+# -------------------------------------------
