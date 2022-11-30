@@ -54,33 +54,3 @@ while not happy_year:
     happy_year = len(set_year) == len(str(year_start))
 
 print(year_start)
-
-
-""" ------------------- Next Happy Year -------------------
-
-
-You are saying goodbye to your best friend: "See you next happy year".
-Happy Year is the year with only distinct digits, for example, 2018.
-Write a program that receives an integer number and finds the next happy year.
-
-
----------- Test Data ------------
-
-
-Input 1:            Output 1:
--------             --------
-8989                9012
-
-
----------------------------------
-
-
-Input 2:            Output 2:
--------             --------
-1001                1023
-
-
----------------------------------
-
-
-"""
