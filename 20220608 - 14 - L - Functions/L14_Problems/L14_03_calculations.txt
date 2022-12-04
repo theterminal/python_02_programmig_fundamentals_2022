@@ -1,0 +1,43 @@
+20220614 - Python - Functions - Lecture
+03 - Calculations - judge url: https://judge.softuni.org/Contests/Practice/Index/1727#2
+
+
+Create a function that receives three parameters, calculates a result depending on the given operator, and returns it.
+Print the result of the function.
+
+The input comes as three parameters – an operator as a string and two integer numbers.
+The operator can be one of the following: 
+"multiply", "divide", "add", "subtract". 
+
+
+____________ Test Data _____________
+
+
+Input 1:
+-------
+subtract
+5
+4
+
+
+Output 1:
+--------
+1
+
+
+------------------------------------
+
+
+Input 2:
+-------
+divide
+8
+4
+
+
+Output 2:
+--------
+2
+
+
+-----------------------------------
