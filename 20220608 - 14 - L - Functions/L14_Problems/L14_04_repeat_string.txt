@@ -1,0 +1,40 @@
+20220614 - Python - Functions - Lecture
+04 - Repeat String - judge url: https://judge.softuni.org/Contests/Practice/Index/1727#3
+
+
+Write a function that receives a string and a counter 'n'.
+The function should return a new string – the result of repeating the old string 'n' times.
+
+Print the result of the function.
+Try using lambda.
+
+
+____________ Test Data ____________
+
+
+Input 1:
+-------
+abc
+3
+
+
+Output 1:
+--------
+abcabcabc
+
+
+-----------------------------------
+
+
+Input 2:
+-------
+String
+2
+
+
+Output 2:
+--------
+StringString
+
+
+----------------------------------
