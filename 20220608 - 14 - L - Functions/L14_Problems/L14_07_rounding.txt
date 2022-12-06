@@ -1,0 +1,28 @@
+20220614 - Python - Functions - Lecture
+07 - Rounding - judge url: https://judge.softuni.org/Contests/Practice/Index/1727#6
+
+
+Input 1:
+-------
+1.0 2.5 3.0 4.5
+
+
+Output 1:
+--------
+[1, 2, 3, 4]
+
+
+---------------------------------------
+
+
+Input 2:
+-------
+2.56 1.9 -3.4 8.1
+
+
+Output 2:
+--------
+[3, 2, -3, 8]
+
+
+---------------------------------------
