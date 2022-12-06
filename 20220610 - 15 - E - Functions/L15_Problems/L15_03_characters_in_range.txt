@@ -1,0 +1,53 @@
+20220614 - Python - Functions - Exercise
+03 - Characters in Range - judge url: https://judge.softuni.org/Contests/Compete/Index/1728#2
+
+
+Write a function that receives two characters and returns a single string with all the characters in between them
+(according to the ASCII code), separated by a single space.
+
+Print the result on the console.
+
+
+___________ Test Data _____________
+
+
+Input 1:
+-------
+a
+d
+
+
+Output 1:
+--------
+b c
+
+
+-----------------------------------
+
+
+Input 2:
+-------
+#
+:
+
+
+Output 2:
+--------
+$ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9
+
+
+-----------------------------------
+
+
+Input 3:
+-------
+#
+C
+
+
+Output 3:
+--------
+$ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B
+
+
+-----------------------------------
