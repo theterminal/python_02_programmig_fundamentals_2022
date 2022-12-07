@@ -1,0 +1,40 @@
+20220615 - Python - Functions - More Exercise
+05 - Multiplication Sign - judge url: https://judge.softuni.org/Contests/Practice/Index/1729#4
+
+
+You will receive three integer numbers.
+Write a program that finds if their multiplication (the result) is negative, positive, or zero.
+Try to do this WITHOUT multiplying the 3 numbers.
+
+
+___________ Test Data ______________
+
+
+Input 1:
+-------
+2
+3
+-1
+
+
+Output 1:
+--------
+negative
+
+
+-----------------------------------
+
+
+Input 2:
+-------
+2
+3
+1
+
+
+Output 2:
+--------
+positive
+
+
+-----------------------------------
