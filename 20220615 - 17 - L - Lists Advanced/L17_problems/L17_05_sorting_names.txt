@@ -1,0 +1,31 @@
+20220617 - Python - Lists Advance - Lecture
+05 - Sorting Names - judge: https://judge.softuni.org/Contests/Practice/Index/1730#4
+
+
+___________ Test Data ______________
+
+
+Input 1:
+-------
+Ali, Marry, Kim, Teddy, Monika, John
+
+
+Output 1:
+--------
+["Monika", "Marry", "Teddy", "John", "Ali", "Kim"]
+
+
+------------------------------------
+
+
+Input 2:
+-------
+Lilly, Tim, Kate, Tom, Alex
+
+
+Output 2:
+--------
+['Lilly', 'Alex', 'Kate', 'Tim', 'Tom']
+
+
+-----------------------------------
