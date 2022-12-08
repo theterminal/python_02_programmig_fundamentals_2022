@@ -49,4 +49,3 @@ print([n for n in word if n not in nots])
 word = 'programming'
 nots = ['a', 'o', 'u', 'e', 'i']
 print([n for n in word if n not in nots])
-
