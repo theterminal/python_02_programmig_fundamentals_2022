@@ -2,7 +2,6 @@
 # Notes 04
 
 
-# -------------------------- .insert(index, element) -------------------------
 print('\n\n----- ex. 1 ----- .insert(index, element) --------------------\n\n')
 
 
@@ -16,7 +15,6 @@ lst_10.insert(3, 'George')
 print(lst_10, '     - the list after insertion')
 
 
-# -------------------------- .index(value) -----------------------------------
 print('\n\n----- ex. 2 ----- .index(value) ------------------------------\n\n')
 
 
@@ -31,7 +29,6 @@ num = lst_20.index(34)
 print(num, '                - the \'index\' of the specified element')
 
 
-# -------------------------- .index(value) -----------------------------------
 print('\n\n----- ex. 3 ----- .index(value) ------------------------------\n\n')
 
 
@@ -46,7 +43,6 @@ print(str_30.index('Jerry'), '                                       - the start
 print('\nIt trows an exception if the value is not found.')
 
 
-# -------------------------- .index(value) -----------------------------------
 print('\n\n----- ex. 4 ----- .index(value) ------------------------------\n\n')
 
 
@@ -59,7 +55,6 @@ print(lst_40, '         - original list')
 print(lst_40.index(7), '- start index of the specified value from the list')
 
 
-# -------------------------- .count(element) ---------------------------------
 print('\n\n----- ex. 5 ----- .count(element) ----------------------------\n\n')
 
 
@@ -73,7 +68,6 @@ repetition = lst_50.count(5)
 print(repetition, '                 - returns the count of the element with value \'5\' in the list')
 
 
-# -------------------------- .copy() ----------------------------------------
 print('\n\n----- ex. 6 ----- .copy() -----------------------------------\n\n')
 
 

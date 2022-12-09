@@ -2,7 +2,6 @@
 # Notes 05
 
 
-# ------------------------ list comprehension -----------------------
 print('\n----- ex. 1 ----- list comprehension --------------------\n')
 
 
