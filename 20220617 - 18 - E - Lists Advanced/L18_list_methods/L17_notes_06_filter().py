@@ -2,7 +2,6 @@
 # Notes - 06 - filter()
 
 
-# --------------------------------------------------------------------------------------
 print('\n\n------ ex. 1 ----- list(filter(lambda x: condition, list_name)----------\n\n')
 
 
@@ -12,7 +11,6 @@ even_numbers = list(filter(lambda x: x % 2 == 0, numbers_list))
 print(even_numbers)
 
 
-# ------------------------------------------------------------------------------------------------------------------
 print('\n\n------ ex. 2 ----- list(map(action, list_name); map(lambda x:); list(filter(lambda x: condition, list_name)----------\n\n')
 
 
