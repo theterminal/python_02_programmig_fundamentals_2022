@@ -2,7 +2,6 @@
 # Notes 03
 
 
-# ------------------------ .pop() ---------------------
 print('\n----- ex. 1 ----- .pop() ------------------\n')
 
 
@@ -21,13 +20,10 @@ lst_10.pop(1)
 print(lst_10, '       - removes the element with the specified index from the list, and returns its value')
 
 print(lst_10.pop(), '                - prints out the deleted element from the list')
-
 print(lst_10, '          - the list after the above operations')
-
 print('\n\'.pop()\' is similar to \'.remove()\' but \'.remove()\' does NOT return the element that is being deleted. It returns \'None\'')
 
 
-# ------------------------ del lst[index] ------------
 print('\n----- ex. 2 ----- del lst[index] ----------\n')
 
 
@@ -41,7 +37,6 @@ del lst_20[3]
 print(lst_20, '      - deletes the element with index 3')
 
 
-# ------------------------ .remove() ---------------
 print('\n----- ex. 3 ----- .remove() --------------\n')
 
 
@@ -54,7 +49,6 @@ lst_30.remove('b')
 print(lst_30)
 
 
-# ------------------------ .remove() ---------------
 print('\n----- ex. 4 ----- .remove() --------------\n')
 
 
