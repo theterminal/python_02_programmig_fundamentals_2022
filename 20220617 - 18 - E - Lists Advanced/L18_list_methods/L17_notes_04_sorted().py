@@ -2,7 +2,6 @@
 # Notes - 04 - .sorted()
 
 
-# --------------------------- sorted(list, key) ----------------------
 print('\n\n----- ex. 1 ------ sorted(list, key) -----------------\n\n')
 
 # sorted() creates new list from the given! .sort() modifies the existing list!
@@ -15,7 +14,6 @@ print(lst_10, '     - original list')
 print(sorted(lst_10, key=len), '     - result after sorted(list, key)')       # ['one', 'two', 'five', 'three', 'eight', 'eleven']
 
 
-# --------------------------- sorted(list, key) with applying functon to the list -----------------
 print('\n\n----- ex. 2 ------ sorted(list, key) with applying functon to the list ------------\n\n')
 
 
@@ -34,7 +32,6 @@ sorted_lst_20 = sorted(lst_20, key=even_nums)
 print(sorted_lst_20, '- returned the even numbers first, then the odd numbers and maintainded the original order')
 
 
-# --------------------------- sorted(list, key) with applying functon to the lis -----------------
 print('\n\n----- ex. 3 ------ sorted(list, key) with applying functon to the list ------------\n\n')
 
 
