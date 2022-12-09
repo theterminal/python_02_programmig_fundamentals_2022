@@ -2,7 +2,6 @@
 # Notes 020
 
 
-# ------------------------- .join() ---------------------------
 print('\n ----- ex. 1 ----- .join() ----- list => str -----\n')
 
 
@@ -14,7 +13,6 @@ print(str_from_list_10)                    # the string from the list
 print(lst_10)                              # original list 'lst' still exist
 
 
-# ------------------------ .join() --------------------------
 print('\n----- ex. 2 ----- .join() ----- str => str -----\n')
 
 
@@ -28,7 +26,6 @@ str_joined = '-'.join(str_20) + '-'.join(str_21)
 print(str_joined)
 
 
-# ------------------------ creating a list from range and joining it into a string --------
 print('\n----- ex. 3 ----- creating a list from range and joining it into a string -----\n')
 
 

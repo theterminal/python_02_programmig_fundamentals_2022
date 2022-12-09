@@ -2,7 +2,6 @@
 # Notes 01
 
 
-# -------------------------------------------------------------------------------------------------
 print('\n\n----- ex. 1 ------ Creating a list and printing all elements ----------------------\n\n')
 
 
@@ -12,7 +11,6 @@ for element in lst_10:
     print(element)
 
 
-# --------------------------------------------------------------------------------------------------
 print('\n\n----- ex. 2 ------ Creating a list, printing all elements index and value ----------\n\n')
 
 
@@ -23,7 +21,6 @@ for i in range(len(lst_20)):
     print(lst_20[i])
 
 
-# --------------------------------------------------------------------------------------------------
 print('\n\n----- ex. 3 ------ Creating a list, printing all elements index and values ---------\n\n')
 
 
@@ -33,7 +30,6 @@ for i, v in enumerate(lst_30):
     print(i, v)
 
 
-# --------------------------------------------------------------------------------------------------
 print('\n\n----- ex. 4 ------ Creating a List and using \'in\' and \'not in\' ------------\n\n')
 
 

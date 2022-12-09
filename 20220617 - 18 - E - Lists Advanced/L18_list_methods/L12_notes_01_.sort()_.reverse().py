@@ -2,7 +2,6 @@
 # Notes 01
 
 
-# ------------------------ .sort() ---------
 print('\n----- ex. 1 ----- .sort() -----\n')
 
 
@@ -23,7 +22,6 @@ print(lst_10, '- Same list sorted descending')
 print(lst_10.sort(), '             - Cannot use this syntax')
 
 
-# ------------------------ .reverse() --------
 print('\n----- ex. 2 ----- .reverse() -----\n')
 
 

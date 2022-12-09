@@ -2,7 +2,6 @@
 # Notes 05
 
 
-# ------------------------ Adding element to a list NOT with append ----------
 print('\n----- ex. 1 ----- Adding element to a list NOT with append() -----\n')
 
 
@@ -14,7 +13,6 @@ for i in range(ord('d'), ord('z') + 1):
 print(lst_10)
 
 
-# ------------------------ .append() -----------------------------------------
 print('\n----- ex. 2 ----- .append() --------------------------------------\n')
 
 
@@ -28,7 +26,6 @@ lst_20.append(4555)
 print(lst_20, '    - Added 4555 to end of the list')
 
 
-# ------------------------ .append() -----------------------------------------
 print('\n----- ex. 3 ----- .append() --------------------------------------\n')
 
 

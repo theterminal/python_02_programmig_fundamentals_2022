@@ -2,7 +2,6 @@
 # Notes 03
 
 
-# ------------------------ Creating a list from range --------
 print('\n----- ex. 1 ----- Creating a list from range -----\n')
 
 
@@ -12,7 +11,6 @@ print(lst_10)
 print(list(range(1, 10)))
 
 
-# ------------------------ list from range with a step (pos, neg, ...) --------
 print('\n----- ex. 2 ----- List from range with a step (pos, neg, ...) -----\n')
 
 
