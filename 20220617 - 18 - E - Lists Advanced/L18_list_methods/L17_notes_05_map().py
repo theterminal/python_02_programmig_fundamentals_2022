@@ -21,5 +21,3 @@ def power_n(x):
 
 
 print(list(map(power_n, [1, 2, 3, 4, 5])))
-
-
