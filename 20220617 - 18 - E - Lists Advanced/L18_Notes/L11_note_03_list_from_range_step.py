@@ -1,5 +1,5 @@
 # 20220601 - Python - L11 - Lists Basics
-# Notes 03
+# Note 03 - List from range
 
 
 print('\n----- ex. 1 ----- Creating a list from range -----\n')
