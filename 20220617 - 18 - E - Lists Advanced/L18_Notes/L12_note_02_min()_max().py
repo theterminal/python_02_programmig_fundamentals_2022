@@ -1,5 +1,5 @@
 # 20220612 - Python - L12 - Lists Basics - Exersice
-# Notes 02
+# Note 02
 
 
 print('\n----- ex. 1 ----- max() -----\n')
