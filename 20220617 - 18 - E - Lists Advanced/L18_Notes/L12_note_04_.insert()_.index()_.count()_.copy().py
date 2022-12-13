@@ -1,5 +1,5 @@
 # 20220603 - Python - L12 - Lists Basics - Exersice
-# Notes 04
+# Note 04
 
 
 print('\n\n----- ex. 1 ----- .insert(index, element) --------------------\n\n')
