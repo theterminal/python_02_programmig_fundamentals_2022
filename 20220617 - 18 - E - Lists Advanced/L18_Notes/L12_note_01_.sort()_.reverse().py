@@ -1,5 +1,5 @@
 # 20220603 - Python - L12 - Lists Basics - Exersice
-# Notes 01
+# Note 01
 
 
 print('\n----- ex. 1 ----- .sort() -----\n')
