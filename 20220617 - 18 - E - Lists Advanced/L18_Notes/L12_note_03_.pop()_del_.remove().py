@@ -1,5 +1,5 @@
 # 20220603 - Python - L12 - Lists Basics - Exersice
-# Notes 03
+# Note 03
 
 
 print('\n----- ex. 1 ----- .pop() ------------------\n')
