@@ -1,5 +1,5 @@
 # 20220601 - Python - L11 - Lists Basics
-# Notes 01
+# Note 01 - List - 'in' and 'not in'
 
 
 print('\n\n----- ex. 1 ------ Creating a list and printing all elements ----------------------\n\n')
