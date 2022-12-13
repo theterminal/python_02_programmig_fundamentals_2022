@@ -1,5 +1,5 @@
 # 20220601 - Python - L11 - Lists Basics
-# Notes 020
+# Notes 02 - List to string
 
 
 print('\n ----- ex. 1 ----- .join() ----- list => str -----\n')
