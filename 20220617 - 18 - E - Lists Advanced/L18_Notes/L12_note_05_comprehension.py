@@ -1,5 +1,5 @@
 # 20220603 - Python - L12 - Lists Basics - Exersice
-# Notes 05
+# Note 05
 
 
 print('\n----- ex. 1 ----- list comprehension --------------------\n')
