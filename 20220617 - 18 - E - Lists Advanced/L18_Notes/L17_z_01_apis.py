@@ -1,5 +1,5 @@
 # 20220618 - Python - Lists Advance - Lecture
-# Notes - 08 - Additional Information - APIs
+# Note - 08 - Additional Information - APIs
 
 import json
 import requests
@@ -24,7 +24,8 @@ data_ltc_usdt = data_ltc_usdt.json()
 data_eur_usd = requests.get(key_eur_usd)
 data_eur_usd = data_eur_usd.json()
 
+print(f'\nThe rates at the moment are as follows:\n')
 print(f"{data_btc_usdt['symbol']} price is {data_btc_usdt['price']}")
 print(f"{data_eth_usdt['symbol']} price is {data_eth_usdt['price']}")
 print(f"{data_ltc_usdt['symbol']} price is {data_ltc_usdt['price']}")
-print(f"{data_eur_usd['symbol']} price is {data_eur_usd['price']}")
+# print(f"{data_eur_usd['symbol']} price is {data_eur_usd['price']}")
