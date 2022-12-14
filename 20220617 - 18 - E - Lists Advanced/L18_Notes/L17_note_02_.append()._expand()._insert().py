@@ -1,5 +1,5 @@
 # 20220615 - Python - Lists Advance - Lecture
-# Notes - 02 - List Comprehensions
+# Note - 02 - .append(), .expend(), .insert()
 
 
 print('\n\n----- ex.1 ----- .append() -----------------\n\n')
