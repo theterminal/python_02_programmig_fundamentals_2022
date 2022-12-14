@@ -1,5 +1,5 @@
 # 20220628 - Python
-# any(), all()
+# L18 - Note 2 - any(), all()
 
 
 return_any_01 = any([True, False, False])
