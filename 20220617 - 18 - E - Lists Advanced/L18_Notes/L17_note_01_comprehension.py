@@ -1,5 +1,5 @@
 # 20220615 - Python - Lists Advance - Lecture
-# Notes - 01 - List Comprehension
+# Note - 01 - List Comprehension
 
 
 print('\n\n------- ex. 1 -------------------------------------------------\n\n')
@@ -8,15 +8,15 @@ print('\n\n------- ex. 1 -------------------------------------------------\n\n')
 lst_10 = [0, 1, 2, 3, -4, 5, -6, 7, 8, -9]
 lst_11 = [x**2 for x in lst_10 if x > 0]
 
-print(lst_10, '     - original list')
-print(lst_11, '                 - new list with satisfied condition')   # power of 2 of all elements '> 0' in the list
+print(lst_10)                                          # [0, 1, 2, 3, -4, 5, -6, 7, 8, -9]
+print(lst_11)                                          # [1, 4, 9, 25, 49, 64] - new list with power of 2 of all elements '> 0' in the original list
 
 
 print('\n\n------- ex. 2 --------------------------------------------------\n\n')
 
 
-print('Enter the string between the pipes: | -12 -5 0 8 11 45 9 |\n')
-#      Enter the string between the pipes: | -12 -5 0 8 11 45 9 |
+print('Enter the string between the pipes: |-12 -5 0 8 11 45 9|\n')
+#      Enter the string between the pipes: |-12 -5 0 8 11 45 9|
 
 lst_20 = [int(x) for x in input().split() if int(x) <= 0]
 
