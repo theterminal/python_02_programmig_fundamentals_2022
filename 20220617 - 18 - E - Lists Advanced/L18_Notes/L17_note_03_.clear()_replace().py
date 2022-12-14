@@ -1,5 +1,5 @@
 # 20220615 - Python - Lists Advance - Lecture
-# Notes - 02 - List Comprehensions
+# Note - 03 - .clear(), .replace()
 
 
 print('\n\n----- ex. 1 ----- .clear() ---------------------\n\n')
