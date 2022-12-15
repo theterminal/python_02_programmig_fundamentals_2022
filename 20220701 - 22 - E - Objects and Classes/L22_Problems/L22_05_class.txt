@@ -33,3 +33,6 @@ print(a_class)
 Output 1:
 --------
 The students in 11B: Peter, George, Amy. Average grade: 4.77
+
+
+-------------------------------------
