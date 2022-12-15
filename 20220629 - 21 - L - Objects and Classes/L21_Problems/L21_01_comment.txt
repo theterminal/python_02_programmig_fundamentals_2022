@@ -17,6 +17,7 @@ Test the class yourself and submit only the class
 
 __________ Test Code ___________
 
+
 comment = Comment("user1", "I like this book")
 print(comment.username)
 print(comment.content)
@@ -28,3 +29,6 @@ __________ Output ______________
 user1
 I like this book
 0
+
+
+--------------------------------

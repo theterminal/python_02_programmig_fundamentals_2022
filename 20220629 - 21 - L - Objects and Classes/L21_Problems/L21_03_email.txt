@@ -1,6 +1,7 @@
 20220629 - Python - Objects and Classes - Lecture
 03 - Email - judge url: https://judge.softuni.org/Contests/Practice/Index/1733#2
 
+
 Create class Email.
 The __init__ method should receive sender, receiver and a content.
 It should also have a default set to False attribute called is_sent.
