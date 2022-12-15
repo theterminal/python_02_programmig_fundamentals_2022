@@ -1,5 +1,5 @@
 # 20220629 - Python - Objects and Classes - Lecture
-# Notes 02 - Dynamically attaching attributes
+# Note 02 - Dynamically attaching attributes
 
 
 class Person:

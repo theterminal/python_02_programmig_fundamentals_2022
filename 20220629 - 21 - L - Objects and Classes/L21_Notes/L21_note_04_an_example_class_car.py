@@ -25,7 +25,7 @@ while True:
     car = Car(command_year, command_make, command_model)
     cars_data.append(car)
 
-print(f'total cars entered = {len(cars_data)}')
+print(f'\ntotal cars entered = {len(cars_data)}')
 
 for car in cars_data:
     print(f'\nYear: {car.year}\nMake: {car.make}\nModel: {car.model}\n')
@@ -33,8 +33,7 @@ for car in cars_data:
 print(f'Car is: {cars_data[2].make_a_beep()}')
 
 
-# --------------------------------
-# use the following input
+# ------- use the following input -------
 
 """
 
@@ -46,4 +45,3 @@ print(f'Car is: {cars_data[2].make_a_beep()}')
 End
 
 """
-
