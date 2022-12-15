@@ -49,3 +49,6 @@ Sorry, not enough money
 Successfully bought a car. Change: 5000.00
 BMW car is owned by: George
 BMW car is on sale: 30000
+
+
+-------------------------------
