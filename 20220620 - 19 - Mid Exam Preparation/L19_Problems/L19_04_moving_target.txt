@@ -34,6 +34,7 @@ Input / Constraints:
     •	On the following lines, until the "End" will be receiving the command described above – strings.
     •	There will never be a case when the "Strike" command would empty the whole sequence.
 
+
 Output:
 ------
     •	Print the appropriate message in case of any command if necessary.

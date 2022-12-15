@@ -17,10 +17,12 @@ Upon receiving the "End of battle" command, print the count of won battles in th
 
 "Won battles: {count}. Energy left: {energy}"
 
+
 Input / Constraints:
 -------------------
     •	On the first line, you will receive initial energy – an integer [1-10000].
     •	On the following lines, you will be receiving the distance of an enemy – an integer [1-10000]
+
 
 Output:
 -------
