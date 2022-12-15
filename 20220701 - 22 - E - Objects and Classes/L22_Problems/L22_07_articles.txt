@@ -38,3 +38,6 @@ Output 1:
 --------
 Temperature in Italy - Syracuse, a city on the coast of the Italian island of Sicily,
 registered temperatures of 48.8 degrees Celsius: B. T.
+
+
+-----------------------------------------
