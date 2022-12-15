@@ -42,3 +42,6 @@ Output 1:
 Movie name: Inception; Movie director: Me. Total watched movies: 2
 Movie name: The Matrix; Movie director: The Wachowskis. Total watched movies: 2
 Movie name: My Movie; Movie director: Shane Black. Total watched movies: 2
+
+
+----------------------------------
