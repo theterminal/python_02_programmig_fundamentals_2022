@@ -32,3 +32,6 @@ print(storage.get_products())
 Output 1:
 --------
 ["apple", "banana", "potato", "tomato"]
+
+
+----------------------------
