@@ -1,8 +1,5 @@
 # 20220712 - Python - Dictionaries - Lecture
-# Notes 09
-
-
-# ------------ .copy() ----------------------
+# Note 09 - .copy()
 
 
 dict_1 = {
@@ -10,6 +7,7 @@ dict_1 = {
     'two': 2,
     'three': 3
 }
+
 print(dict_1)                               # result: {'one': 1, 'two': 2, 'three': 3}
 
 dict_2 = dict_1.copy()
