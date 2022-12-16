@@ -1,5 +1,5 @@
 # 20220706 - Python - Dictionaries - Lecture
-# Notes - 02 - Iterations
+# Note - 03 - Dictionary iterations
 
 
 my_dict = {
