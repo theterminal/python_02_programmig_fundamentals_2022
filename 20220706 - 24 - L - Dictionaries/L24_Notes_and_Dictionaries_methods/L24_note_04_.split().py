@@ -1,5 +1,5 @@
 # 20220712 - Python - Dictionaries - Lecture
-# Notes - 03 - Dictionaries
+# Note - 04 - Dictionaries, .split()
 
 
 given_stock = 'cheese 10 bread 5 ham 10 chocolate 3'        # given string separated by space
