@@ -1,5 +1,5 @@
 # 20220712 - Python - Dictionaries - Lecture
-# Notes 10
+# Note 10 - .pop() and .popitem()
 
 
 # ------------ .pop() ----------------------
