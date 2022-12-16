@@ -1,5 +1,5 @@
 # 20220712 - Python - Dictionaries - Lecture
-# Notes - 05 - Dictionaries - zip function
+# Note - 06 - Dictionaries - zip function
 
 
 questions = ['name', 'quest', 'favorite color']
