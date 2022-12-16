@@ -1,8 +1,5 @@
 # 20220712 - Python - Dictionaries - Lecture
-# Notes 11
-
-
-# ------------ .get() ----------------------
+# Note 11 - .get()
 
 
 dict_1 = {
@@ -14,4 +11,4 @@ dict_1 = {
 }
 print(dict_1)
 print(dict_1.get('three'))
-print(dict_1.get("sixteen"))
+print(dict_1.get('sixteen'))
