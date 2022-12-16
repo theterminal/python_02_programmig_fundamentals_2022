@@ -1,8 +1,5 @@
 # 20220712 - Python - Dictionaries - Lecture
-# Notes 08
-
-
-# ------------ .clear() ----------------------
+# Note 08 - .clear()
 
 
 test_dict = {
@@ -12,7 +9,6 @@ test_dict = {
 }
 
 print(test_dict)
-
 test_dict.clear()
 
 print(test_dict)
