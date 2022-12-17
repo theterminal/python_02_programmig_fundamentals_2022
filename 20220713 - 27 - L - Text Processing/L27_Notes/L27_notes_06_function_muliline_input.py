@@ -1,7 +1,8 @@
 # 20220715 - Python
-# Notes 06 - Function for Entering Multiline Input
+# Note 06 - Function for Entering Multiline Input
 
 
+# Keep entering lines of input, when done enter [space] to end the program
 def multiline_input_function(text):
     print(text)
     multiline_input: str = ''
@@ -9,10 +10,9 @@ def multiline_input_function(text):
     while True:
         data_in = input()
 
-        if data_in != '':
-            multiline_input += data_in + '\n'
-        else:
+        if data_in == '':
             break
+        multiline_input += data_in + '\n'
 
     return multiline_input
 
