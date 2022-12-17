@@ -1,8 +1,9 @@
 # 20220722 - Python Code - Regular Expressions - Lecture
-# Notes 02 - Flags
+# Note 04 - Flags
+
+# use the link to construct the regex: https://regex101.com/
 
 import re
-# use this to construct the regex: https://regex101.com/
 
 
 # ----------------- .IGNORCASE ----------------------
