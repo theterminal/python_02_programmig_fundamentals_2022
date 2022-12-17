@@ -1,5 +1,5 @@
 # 20220714 - Python - String Processing - Lecture
-# 01 - Notes
+# Note 01 - str(), .split()
 
 
 # ---------------- str() ---------------------------
