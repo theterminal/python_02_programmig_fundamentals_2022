@@ -8,7 +8,6 @@ Write a program, which matches a date in the format:
 
 Use capturing groups in your regular expression.
 
-
 Compose the Regular Expression:
 
 Every valid date has the following characteristics:
@@ -17,6 +16,18 @@ Every valid date has the following characteristics:
 •	After that, it has a separator and exactly 4 digits (for the year).
 •	The separator could be one of these symbols: a period ("."), a hyphen ("-") or a forward-slash ("/").
 •	The separator must be the same for the whole date (e.g., 13.03.2016 is valid, 13.03/2016 is NOT). Use a group back-reference to check for this.
+
+
+Comments:
+--------
+
+
+* - We'll create 5 groups       ()()()()()
+    - 1-st is the date          (\d{2})             - find group of 2 digits
+    - 2-nd is the separator     ([\/.-])            - find separator '/' or '.' or '-'
+    - 3-d is the month          ([A-Z][a-z]{2})     - find 3 letter word with 1 Cap Letter and 2 small
+    - 4-th is the separator     \2                  - find separator that matches the separator from group 2!!! (back-reference)
+    - 5-th is the year          (\d{4})             - find group of 4 digits
 
 
 _________________ Test Data _____________________
