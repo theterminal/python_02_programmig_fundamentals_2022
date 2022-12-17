@@ -1,5 +1,5 @@
 # 20220715 - Python - String Processing - Lecture
-# 05 - Notes
+# Note 05 - .fsum, .pi, .tau, .log, .perm
 
 
 # from: https://docs.python.org/3.10/library/math.html#module-math
