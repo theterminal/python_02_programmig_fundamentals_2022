@@ -1,12 +1,9 @@
 # 20220722 - Python Code - Regular Expressions - Lecture
-# Notes 01
+# Note 01 - .search()
+
+# use the link to construct the regex: https://regex101.com/
 
 import re
-
-# use this to construct the regex: https://regex101.com/
-
-
-# ----------------- .search() ----------------------
 
 
 txt = 'The rain in Spain'
