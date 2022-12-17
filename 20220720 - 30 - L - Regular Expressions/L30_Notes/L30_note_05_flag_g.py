@@ -1,8 +1,9 @@
 # 20220722 - Python Code
 # This file is about Flags -> Global 'g' from https://regex101.com
 
+# use the link to construct the regex: https://regex101.com/
+
 import re
-# use this to construct the regex: https://regex101.com/
 
 
 regex = r"this"
