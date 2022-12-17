@@ -2,6 +2,13 @@
 # 01 - The Longest Palindrome in a String
 
 
+"""
+
+Find the longest palindrome in a string of symbols
+
+"""
+
+
 txt = 'abbabbaazzaab'
 longest_palindrome = ''
 
@@ -12,12 +19,3 @@ for i in range(len(txt), 1, -1):
                 longest_palindrome = txt[j: i]
 
 print(f'The longest palindrome is: \'{longest_palindrome}\' and it contains {len(longest_palindrome)} symbols.')
-
-
-""" ---------------- Find the longest palindrome in a string of symbols ----------------
-
-
-Find the longest palindrome in a string of symbols
-
-
-"""
