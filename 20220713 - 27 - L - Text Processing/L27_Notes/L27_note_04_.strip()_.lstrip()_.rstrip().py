@@ -1,5 +1,5 @@
 # 20220715 - Python - String Processing - Lecture
-# 04 - Notes
+# Note 04 - .strip(), .lstrip(), .rstrip()
 
 
 # ---------------- .strip() -------------------------
