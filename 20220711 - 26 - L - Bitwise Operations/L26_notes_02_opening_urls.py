@@ -5,10 +5,11 @@ import webbrowser
 
 
 def web_automation():
-    urls = ("stackoverflow.com", "github.com", "neuralnine.com")        # URLs we're opening
+    urls = ("stackoverflow.com", "github.com", "neuralnine.com")                                # URLs that will open
 
     for url in urls:
-        webbrowser.open("https://" + url)       # Not using a specific Chrome directory. Add 'https://' to the URL to open in default browser.
+        webbrowser.open("https://" + url)                       # Not using a specific Chrome directory.
+#                                                                 Add 'https://' to the URL to open in default browser.
 
 
 web_automation()
