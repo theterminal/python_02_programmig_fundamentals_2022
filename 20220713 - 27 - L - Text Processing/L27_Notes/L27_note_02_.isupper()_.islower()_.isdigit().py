@@ -1,5 +1,5 @@
 # 20220714 - Python - String Processing - Lecture
-# 02 - Notes
+# Note 02 - .isupper(), .islower(), .isdigit()
 
 
 # ---------------- .isdigit() -------------------------
