@@ -1,11 +1,9 @@
 # 20220722 - Python Code - Regular Expressions - Lecture
-# Notes
+# Note 03 - .split()
+
+# use the link to construct the regex: https://regex101.com/
 
 import re
-# use this to construct the regex: https://regex101.com/
-
-
-# ----------------- .split() ----------------------
 
 
 txt = 'The rain in Washington!'
