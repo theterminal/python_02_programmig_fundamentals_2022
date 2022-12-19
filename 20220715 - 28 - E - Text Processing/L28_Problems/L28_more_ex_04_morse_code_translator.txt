@@ -1,0 +1,40 @@
+20220721 - Python Code - String Processing - Exercise
+More Exercise 04 - Morse Code Translator - judge url: https://judge.softuni.org/Contests/Practice/Index/1741#3
+
+
+Write a program that translates messages from Morse code to English (capital letters only).
+Use this link (https://morsecode.scphillips.com/morse2.html) (KK – the page has changed)
+[KK note: This one works -> https://morsecode.world/american/morse.html]
+
+The words (letters is more accurate) will be separated by a space ' '.
+Each word is separated by a ' | '.
+Print the found words on one line, separated by a space ' '.
+
+
+______________________ Test Data __________________________
+
+
+Input 1:
+---------
+.. | -- .- -.. . |  -.-- --- ..- | .-- .-. .. - . | .- | .-.. --- -. --. | -.-. --- -.. .
+
+
+Output 1:
+---------
+I MADE YOU WRITE A LONG CODE
+
+
+---------------------------------------------------------
+
+
+Input 2:
+---------
+.. | .... --- .--. . | -.-- --- ..- | .- .-. . | -. --- - | -- .- -..
+
+
+Output 2:
+---------
+I HOPE YOU ARE NOT MAD
+
+
+---------------------------------------------------------
