@@ -22,21 +22,3 @@ for i in range(len(data_in)):
         last_char = data_in[i]
 
 print(chars_to_print)
-
-
-""" Replace Repeating Chars
-
-Write a program that reads a string from the console and replaces
-any sequence of the same letters with a single corresponding letter.
-
-
-
-Examples:
-
-Input 1:	                        Output 1:
-aaaaabbbbbcdddeeeedssaa	            abcdedsa
-
-Input 2:	                        Output 2:
-qqqwerqwecccwd	                    qwerqwecwd
-
-"""
