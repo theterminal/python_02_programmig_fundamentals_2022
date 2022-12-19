@@ -1,0 +1,25 @@
+20220715 - Python Code - String Processing - Exercise
+05 - Emoticon Finder - judge url: https://judge.softuni.org/Contests/Compete/Index/1740#4
+
+
+Find all emoticons in the text.
+An emoticon always starts with ":" and is followed by a symbol.
+The input will be provided as a single string.
+
+
+_______________ Test Data ________________
+
+
+Input 1:
+-------
+There are so many emoticons nowadays :P. I have many ideas :O what input to place here :)
+
+
+Output 1:
+--------
+:P
+:O
+:)
+
+
+------------------------------------------
