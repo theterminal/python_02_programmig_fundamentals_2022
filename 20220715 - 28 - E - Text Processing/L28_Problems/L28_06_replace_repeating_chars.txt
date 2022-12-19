@@ -1,0 +1,35 @@
+20220715 - Python Code - String Processing - Exercise
+06 - Replace Repeating Chars - judge url: https://judge.softuni.org/Contests/Compete/Index/1740#5
+
+
+Write a program that reads a string from the console and replaces any sequence of the same letters
+with a single corresponding letter.
+
+
+____________ Test Data ___________
+
+
+Input 1:
+-------
+aaaaabbbbbcdddeeeedssaa
+
+
+Output 1:
+--------
+abcdedsa
+
+
+---------------------------------
+
+
+Input 2:
+-------
+qqqwerqwecccwd
+
+
+Output 2:
+--------
+qwerqwecwd
+
+
+--------------------------------
