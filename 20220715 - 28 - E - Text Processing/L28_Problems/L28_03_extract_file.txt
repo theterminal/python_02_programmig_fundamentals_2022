@@ -1,0 +1,36 @@
+20220715 - Python - String Processing - Exercise
+03 - Extract File - judge url: https://judge.softuni.org/Contests/Compete/Index/1740#2
+
+
+Write a program that reads the path to a file and subtracts the file name and its extension.
+
+
+________________ Test Data ___________________
+
+
+Input 1:
+-------
+C:\Internal\training-internal\Template.pptx
+
+
+Output 1:
+--------
+File name: Template
+File extension: pptx
+
+
+______________________________________________
+
+
+Input 2:
+-------
+C:\Projects\Data-Structures\LinkedList.cs
+
+
+Output 2:
+--------
+File name: LinkedList
+File extension: cs
+
+
+______________________________________________
