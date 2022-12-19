@@ -1,0 +1,42 @@
+20220715 - Python - String Processing - Exercise
+01 - Valid Usernames - judge url: https://judge.softuni.org/Contests/Compete/Index/1740#0
+
+
+Write a program that reads usernames on a single line (separated by ", ") and
+prints all valid usernames on separate lines.
+
+A valid username:
+    *) has length between 3 and 16 characters inclusive
+    *) can contain only letters, numbers, hyphens, and underscores
+    *) has no redundant symbols before, after, or in between
+
+
+____________ Test Data _____________
+
+
+Input 1:
+-------
+sh, too_long_username, !lleg@l ch@rs, jeffbutt
+
+
+Output 1:
+--------
+jeffbutt
+
+
+------------------------------------
+
+
+Input 2:
+-------
+Jeff, john45, ab, cd, peter-ivanov, @smith
+
+
+Output 2:
+--------
+Jeff
+John45
+peter-ivanov
+
+
+------------------------------------
