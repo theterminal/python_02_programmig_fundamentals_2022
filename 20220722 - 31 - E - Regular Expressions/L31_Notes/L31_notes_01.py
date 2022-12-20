@@ -38,6 +38,3 @@ playground Python IDE:
 https://pythonexamples.org/run.php
 
 """
-
-
-# --------------------------------------------------
